@@ -196,11 +196,11 @@ msgstr "Çerçeveleme"
 
 #: STRINGS.UI.DEATHSCREEN.YOUESCAPED
 msgid "You escaped!"
-msgstr "Kaçtın!"
+msgstr "Kaçtin!"
 
 #: STRINGS.UI.DEATHSCREEN.NEXTREWARD
 msgid "Next Reward..."
-msgstr "Sıradaki Ödül ..."
+msgstr "Siradaki Ödül ..."
 
 #: STRINGS.UI.DEATHSCREEN.SURVIVEDDAYS
 msgid "You survived"
