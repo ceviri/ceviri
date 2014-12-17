@@ -1,0 +1,999 @@
+#: STRINGS.PIGNAMES.2
+msgid "Tiberius"
+msgstr "Tiberius"
+
+#: STRINGS.PIGNAMES.3
+msgid "Caligula"
+msgstr "Caligula"
+
+#: STRINGS.PIGNAMES.4
+msgid "Claudius"
+msgstr "Claudius"
+
+#: STRINGS.PIGNAMES.5
+msgid "Nero"
+msgstr "Nero"
+
+#: STRINGS.PIGNAMES.6
+msgid "Galba"
+msgstr "Galba"
+
+#: STRINGS.PIGNAMES.7
+msgid "Otho"
+msgstr "Otho"
+
+#: STRINGS.PIGNAMES.8
+msgid "Vitellius"
+msgstr "Vitellius"
+
+#: STRINGS.PIGNAMES.9
+msgid "Vespasian"
+msgstr "Vespasien"
+
+#: STRINGS.PIGNAMES.10
+msgid "Titus"
+msgstr "Titus"
+
+#: STRINGS.PIGNAMES.11
+msgid "Domitian"
+msgstr "Domitien"
+
+#: STRINGS.PIGNAMES.12
+msgid "Nerva"
+msgstr "Nerva"
+
+#: STRINGS.PIGNAMES.13
+msgid "Trajan"
+msgstr "Trajan"
+
+#: STRINGS.PIGNAMES.14
+msgid "Hadrian"
+msgstr "Hadrien"
+
+#: STRINGS.PIGNAMES.15
+msgid "Antonius"
+msgstr "Antonius"
+
+#: STRINGS.PIGNAMES.16
+msgid "Lucius"
+msgstr "Lucius"
+
+#: STRINGS.PIGNAMES.17
+msgid "Marcus"
+msgstr "Marcus"
+
+#: STRINGS.PIGNAMES.18
+msgid "Commodus"
+msgstr "Commode"
+
+#: STRINGS.PIGNAMES.19
+msgid "Pertinax"
+msgstr "Pertinax"
+
+#: STRINGS.PIGNAMES.20
+msgid "Didius"
+msgstr "Didius"
+
+#: STRINGS.PIGNAMES.21
+msgid "Septmius"
+msgstr "Septmius"
+
+#: STRINGS.PIGNAMES.22
+msgid "Caracalla"
+msgstr "caracalla"
+
+#: STRINGS.PIGNAMES.23
+msgid "Geta"
+msgstr "Geta"
+
+#: STRINGS.PIGNAMES.24
+msgid "Marcrinus"
+msgstr "Marcrinus"
+
+#: STRINGS.PIGNAMES.25
+msgid "Elagabalus"
+msgstr "Héliogabale"
+
+#: STRINGS.PIGNAMES.26
+msgid "Severus"
+msgstr "Severus."
+
+#: STRINGS.PIGNAMES.27
+msgid "Maximinus"
+msgstr "Maximin"
+
+#: STRINGS.PIGNAMES.28
+msgid "Gordian"
+msgstr "Gordien"
+
+#: STRINGS.PIGNAMES.29
+msgid "Pupienus"
+msgstr "Pupienus"
+
+#: STRINGS.PIGNAMES.30
+msgid "Balbinus"
+msgstr "Balbin"
+
+#: STRINGS.PIGNAMES.31
+msgid "Philip"
+msgstr "Philippe"
+
+#: STRINGS.PIGNAMES.32
+msgid "Hostilian"
+msgstr "Hostilien"
+
+#: STRINGS.PIGNAMES.33
+msgid "Trebonianus"
+msgstr "Trebonianus"
+
+#: STRINGS.PIGNAMES.34
+msgid "Aemilian"
+msgstr "Aemilian"
+
+#: STRINGS.PIGNAMES.35
+msgid "Valerian"
+msgstr "Valerian"
+
+#: STRINGS.PIGNAMES.36
+msgid "Gallienus"
+msgstr "Gallienus"
+
+#: STRINGS.PIGNAMES.37
+msgid "Quintillus"
+msgstr "Quintillus"
+
+#: STRINGS.PIGNAMES.38
+msgid "Aurelian"
+msgstr "Aurélien"
+
+#: STRINGS.PIGNAMES.39
+msgid "Tacitus"
+msgstr "Tacite"
+
+#: STRINGS.PIGNAMES.40
+msgid "Florian"
+msgstr "Florian"
+
+#: STRINGS.PIGNAMES.41
+msgid "Probus"
+msgstr "Probus"
+
+#: STRINGS.PIGNAMES.42
+msgid "Carus"
+msgstr "Carus"
+
+#: STRINGS.PIGNAMES.43
+msgid "Numerian"
+msgstr "Numérien"
+
+#: STRINGS.PIGNAMES.44
+msgid "Carinus"
+msgstr "Carin"
+
+#: STRINGS.PIGNAMES.45
+msgid "Diocletian"
+msgstr "Dioclétien"
+
+#: STRINGS.PIGNAMES.46
+msgid "Maximian"
+msgstr "Maximien"
+
+#: STRINGS.PIGNAMES.47
+msgid "Constantius"
+msgstr "Constance"
+
+#: STRINGS.PIGNAMES.48
+msgid "Galerius"
+msgstr "Galère"
+
+#: STRINGS.PIGNAMES.49
+msgid "Constantine"
+msgstr "Constantine"
+
+#: STRINGS.PIGNAMES.50
+msgid "Maxentius"
+msgstr "Maxence"
+
+#: STRINGS.PIGNAMES.51
+msgid "Licinius"
+msgstr "Licinius"
+
+#: STRINGS.PIGNAMES.52
+msgid "Constans"
+msgstr "Constans"
+
+#: STRINGS.PIGNAMES.53
+msgid "Vetriano"
+msgstr "Vetriano"
+
+#: STRINGS.PIGNAMES.54
+msgid "Julian"
+msgstr "Julien"
+
+#: STRINGS.PIGNAMES.55
+msgid "Jovian"
+msgstr "Jovien"
+
+#: STRINGS.PIGNAMES.56
+msgid "Valentinian"
+msgstr "Valentinien"
+
+#: STRINGS.PIGNAMES.57
+msgid "Valens"
+msgstr "Valens"
+
+#: STRINGS.PIGNAMES.58
+msgid "Gratian"
+msgstr "Gratien"
+
+#: STRINGS.PIGNAMES.59
+msgid "Theodosius"
+msgstr "Théodose"
+
+#: STRINGS.PIGNAMES.60
+msgid "Arcadius"
+msgstr "Arcadius"
+
+#: STRINGS.PIGNAMES.61
+msgid "Honorius"
+msgstr "Honorius"
+
+#: STRINGS.PIGNAMES.62
+msgid "Joannes"
+msgstr "Joannes"
+
+#: STRINGS.PIGNAMES.63
+msgid "Marcian"
+msgstr "Marcien"
+
+#: STRINGS.PIGNAMES.64
+msgid "Petronius"
+msgstr "Pétrone"
+
+#: STRINGS.PIGNAMES.65
+msgid "Avitus"
+msgstr "Avitus"
+
+#: STRINGS.PIGNAMES.66
+msgid "Majorian"
+msgstr "Majorien"
+
+#: STRINGS.PIGNAMES.67
+msgid "Libius"
+msgstr "Libius"
+
+#: STRINGS.PIGNAMES.68
+msgid "Anthemius"
+msgstr "Anthemius"
+
+#: STRINGS.PIGNAMES.69
+msgid "Olybrius"
+msgstr "Olybrius"
+
+#: STRINGS.PIGNAMES.70
+msgid "Glycerius"
+msgstr "Glycerius"
+
+#: STRINGS.PIGNAMES.71
+msgid "Julius"
+msgstr "Julius"
+
+#: STRINGS.PIGNAMES.72
+msgid "Romulus"
+msgstr "Romulus"
+
+#: STRINGS.PIGNAMES.73
+msgid "Leo"
+msgstr "Lion"
+
+#: STRINGS.PIGNAMES.74
+msgid "Zeno"
+msgstr "Zénon"
+
+#: STRINGS.PIGNAMES.75
+msgid "Basiliscus"
+msgstr "Basiliscus"
+
+#: STRINGS.PIGNAMES.76
+msgid "Anatasius"
+msgstr "Anatasius"
+
+#: STRINGS.PIGNAMES.77
+msgid "Justin"
+msgstr "Justin."
+
+#: STRINGS.PIGNAMES.78
+msgid "Justinian"
+msgstr "Justinien"
+
+#: STRINGS.PIGNAMES.79
+msgid "Maurice"
+msgstr "Maurice"
+
+#: STRINGS.PIGNAMES.80
+msgid "Mickey"
+msgstr "Mickey"
+
+#: STRINGS.PIGNAMES.81
+msgid "Kevin"
+msgstr "Kevin"
+
+#: STRINGS.PIGNAMES.82
+msgid "Ju-lian"
+msgstr "Ju-lian"
+
+#: STRINGS.PIGNAMES.83
+msgid "Alia"
+msgstr "Pseudonyme"
+
+#: STRINGS.PIGNAMES.84
+msgid "Tatham"
+msgstr "Tatham"
+
+#: STRINGS.PIGNAMES.85
+msgid "Brook"
+msgstr "Ruisseau"
+
+#: STRINGS.PIGNAMES.86
+msgid "Matt"
+msgstr "(Matthieu 18.10)"
+
+#: STRINGS.PIGNAMES.87
+msgid "Alex"
+msgstr "Alex"
+
+#: STRINGS.PIGNAMES.88
+msgid "Kelly"
+msgstr "Kelly"
+
+#: STRINGS.PIGNAMES.89
+msgid "Eugene"
+msgstr "Eugene"
+
+#: STRINGS.PIGNAMES.90
+msgid "Graham"
+msgstr "Graham"
+
+#: STRINGS.PIGNAMES.91
+msgid "Jamie"
+msgstr "Jamie"
+
+#: STRINGS.PIGNAMES.92
+msgid "Jeff"
+msgstr "Jeff"
+
+#: STRINGS.PIGNAMES.93
+msgid "Joe"
+msgstr "Joe"
+
+#: STRINGS.PIGNAMES.94
+msgid "Corey"
+msgstr "Corey"
+
+#: STRINGS.PIGNAMES.95
+msgid "Bug"
+msgstr "erreur"
+
+#: STRINGS.PIGNAMES.96
+msgid "Moon Pie"
+msgstr "Moon Pie"
+
+#: STRINGS.PIGNAMES.97
+msgid "Bagel"
+msgstr "Bagel"
+
+#: STRINGS.PIGNAMES.98
+msgid "Biscuit"
+msgstr "Biscuit"
+
+#: STRINGS.PIGNAMES.99
+msgid "Bacon"
+msgstr "Lard"
+
+#: STRINGS.PIGNAMES.100
+msgid "Hamilton"
+msgstr "Hamilton"
+
+#: STRINGS.PIGNAMES.101
+msgid "Hamms"
+msgstr "Hamms"
+
+#: STRINGS.PIGNAMES.102
+msgid "Mr.P"
+msgstr "Mr.P"
+
+#: STRINGS.PIGNAMES.103
+msgid "Brownie"
+msgstr "Lutin"
+
+#: STRINGS.PIGNAMES.104
+msgid "Butters"
+msgstr "Butters"
+
+#: STRINGS.PIGNAMES.105
+msgid "Tuna"
+msgstr "Thon"
+
+#: STRINGS.PIGNAMES.106
+msgid "Clover"
+msgstr "Trèfle"
+
+#: STRINGS.PIGNAMES.107
+msgid "Coco"
+msgstr "Noix de coco"
+
+#: STRINGS.PIGNAMES.108
+msgid "Custard"
+msgstr "Crème anglaise"
+
+#: STRINGS.PIGNAMES.109
+msgid "Dumpling"
+msgstr "Boulette de pâte"
+
+#: STRINGS.PIGNAMES.110
+msgid "Eggy"
+msgstr "Eggy"
+
+#: STRINGS.PIGNAMES.111
+msgid "Kiwi"
+msgstr "Kiwi"
+
+#: STRINGS.PIGNAMES.112
+msgid "Weiner"
+msgstr "Weiner"
+
+#: STRINGS.PIGNAMES.113
+msgid "Waffle"
+msgstr "Gaufre"
+
+#: STRINGS.PIGNAMES.114
+msgid "Twinkie"
+msgstr "Twinkie"
+
+#: STRINGS.PIGNAMES.115
+msgid "Truffle"
+msgstr "Truffe"
+
+#: STRINGS.PIGNAMES.116
+msgid "Tater"
+msgstr "Tater"
+
+#: STRINGS.PIGNAMES.117
+msgid "Cheddar"
+msgstr "Cheddar"
+
+#: STRINGS.PIGNAMES.118
+msgid "Pumpkin"
+msgstr "Citrouille"
+
+#: STRINGS.PIGNAMES.119
+msgid "Oatey"
+msgstr "Oatey"
+
+#: STRINGS.PIGNAMES.120
+msgid "Oinkey"
+msgstr "Oinkey"
+
+#: STRINGS.PIGNAMES.121
+msgid "Nacho"
+msgstr "Nacho"
+
+#: STRINGS.PIGNAMES.122
+msgid "Puffin"
+msgstr "Macareux"
+
+#: STRINGS.PIGNAMES.123
+msgid "Doughnut"
+msgstr "Beignet"
+
+#: STRINGS.PIGNAMES.124
+msgid "Cabbage"
+msgstr "Chou "
+
+#: STRINGS.PIGNAMES.125
+msgid "Porky"
+msgstr "Porky"
+
+#: STRINGS.PIGNAMES.126
+msgid "Porkins"
+msgstr "Porkins"
+
+#: STRINGS.PIGNAMES.127
+msgid "Porkbun"
+msgstr "Porkbun"
+
+#: STRINGS.PIGNAMES.128
+msgid "Pepper"
+msgstr "Poivre"
+
+#: STRINGS.PIGNAMES.129
+msgid "Gouda"
+msgstr "Gouda"
+
+#: STRINGS.PIGNAMES.130
+msgid "Eggbert"
+msgstr "Eggbert"
+
+#: STRINGS.PIGNAMES.131
+msgid "Chip"
+msgstr "Puce"
+
+#: STRINGS.PIGNAMES.132
+msgid "Berry"
+msgstr "Baie"
+
+#: STRINGS.PIGNAMES.133
+msgid "Crabby"
+msgstr "Crabby"
+
+#: STRINGS.PIGNAMES.134
+msgid "Reuben"
+msgstr "Reuben"
+
+#: STRINGS.PIGNAMES.135
+msgid "Barley"
+msgstr "Orge"
+
+#: STRINGS.PIGNAMES.136
+msgid "Olive"
+msgstr "Olive"
+
+#: STRINGS.PIGNAMES.137
+msgid "Pickles"
+msgstr "Cornichons"
+
+#: STRINGS.PIGNAMES.138
+msgid "Wiggles"
+msgstr "Wiggles"
+
+#: STRINGS.PIGNAMES.139
+msgid "Jerky"
+msgstr "Saccadé"
+
+#: STRINGS.PIGNAMES.140
+msgid "Smelly"
+msgstr "Malodorant"
+
+#: STRINGS.PIGNAMES.141
+msgid "Salty"
+msgstr "Salé"
+
+#: STRINGS.PIG_TALK_PANIC.1
+msgid "NOOOOO!"
+msgstr "HAYIIIIIIR!"
+
+#: STRINGS.PIG_TALK_PANIC.2
+msgid "TOO DARK! TOO DARK!"
+msgstr "COK KARANLIK! COK KARANLIK!"
+
+#: STRINGS.PIG_TALK_PANIC.3
+msgid "AAAAAAAAAH!!"
+msgstr "HA SIKTIIIIIIR!"
+
+#: STRINGS.PIG_TALK_RUNAWAY_WILSON.1
+msgid "TOO CLOSE!"
+msgstr "COK YAKINDI!"
+
+#: STRINGS.PIG_TALK_RUNAWAY_WILSON.2
+msgid "STAY AWAY!"
+msgstr "BU TARAFTAN!"
+
+#: STRINGS.PIG_TALK_RUNAWAY_WILSON.3
+msgid "YOU BACK OFF!"
+msgstr "YOU BACK OFF!"
+
+#: STRINGS.PIG_TALK_RUNAWAY_WILSON.4
+msgid "THAT MY SPACE."
+msgstr "BURASI BENIM BOLGEM."
+
+#: STRINGS.RMB
+msgid "RMB"
+msgstr "RMB"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE_ATTACK
+msgid "OUCH! You jerk!"
+msgstr "Ouch! Vous branler!"
+
+#: STRINGS.CHARACTERS.WILLOW.EAT_FOOD.TALLBIRDEGG_CRACKED
+msgid "Ugh. Crunchy."
+msgstr "Ugh. Croquant."
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COLD
+msgid "The Cold! It burns!"
+msgstr "Le froid! Il brûle!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BOOMERANG
+msgid "Stupid boomerang!"
+msgstr "Aptal Bumerang!"
+
+#: STRINGS.CHARACTERS.WILLOW.BATTLECRY.GENERIC
+msgid "It's you or me!"
+msgstr "It's you or me!"
+
+#: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PREY
+msgid "Get over here!"
+msgstr "Get over here!"
+
+#: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PIG
+msgid "Stupid Pig!"
+msgstr "Aptal Domuz!"
+
+#: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER_WARRIOR
+msgid "Ew, kill iiiit!"
+msgstr "Ew, kill iiiit!"
+
+#: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER
+msgid "Grrrrar!"
+msgstr "Grrrrar!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HUNT_BEAST_NEARBY
+msgid "I'll find you!"
+msgstr "Seni Bulacagim oglum!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.GENERIC
+msgid "Yum!"
+msgstr "Yum!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.STALE
+msgid "That was kinda gross."
+msgstr "That was kinda gross."
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.PAINFUL
+msgid "Ugh! Nasty!"
+msgstr "Ugh! Nasty!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.SPOILED
+msgid "That tasted terrible!"
+msgstr "That tasted terrible!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE
+msgid "I'm not afraid of you!"
+msgstr "Senden korkmuyorum!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBIT.GENERIC
+msgid "He looks tasty."
+msgstr "Lezzetli görünüyor."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBIT.HELD
+msgid "I have him where I want him!"
+msgstr "I have him where I want him!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_PLANT
+msgid "It's all planty."
+msgstr "It's all planty."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANFLUTE
+msgid "Music is boring."
+msgstr "Music is boring."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.GENERIC
+msgid "I feel like he understands me."
+msgstr "I feel like he understands me."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.HUNGRY
+msgid "He sure eats a lot."
+msgstr "Il mange certainement beaucoup."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.STARVING
+msgid "Don't look at me! Get your own food."
+msgstr "Ne me regarde pas! Obtenez votre propre nourriture."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_HAY
+msgid "That looks so flammable!"
+msgstr "Cela semble si inflammable!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CROW.GENERIC
+msgid "I think it's waiting for me to die."
+msgstr "Je pense qu'il attend que je meure."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CROW.HELD
+msgid "Not so smart now, are you?"
+msgstr "Pas si intelligent maintenant, êtes-vous?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GENERIC
+msgid "Ugh. They're fragrant."
+msgstr "Ugh. Ils sont parfumés."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.WEREPIG
+msgid "Bring it on, piggie!"
+msgstr "Bring it on, piggie!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.FOLLOWER
+msgid "Ick. It's following me."
+msgstr "Ick. Il me suit."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.DEAD
+msgid "I wonder how they taste."
+msgstr "Je me demande comment ils goûtent."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB
+msgid "Even I don't know everything, yet."
+msgstr "Même moi, je ne sais pas tout, encore."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_RING
+msgid "This is too precious to burn!"
+msgstr "C'est trop précieux pour brûler!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT
+msgid "I could make this better with FIRE!"
+msgstr "Je pourrais faire mieux avec ce feu!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOUND.GENERIC
+msgid "It's full of dead stuff, I bet."
+msgstr "C'est plein de trucs morts, je parie."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOUND.DUG
+msgid "Better it than me."
+msgstr "Mieux que moi."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BABYBEEFALO.GENERIC
+msgid "Even the babies are ugly."
+msgstr "Même les bébés sont moches."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BABYBEEFALO.SLEEPING
+msgid "WAKE UP!"
+msgstr "Reveille toi."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.GENERIC
+msgid "He's too damp to burn."
+msgstr "Il est trop humide pour brûler."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.SLEEPING
+msgid "They're cute when they're sleeping."
+msgstr "Ils sont mignons quand ils dorment."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.DEAD
+msgid "I showed him!"
+msgstr "Je lui ai montré!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOST
+msgid "I can't kill what's already dead."
+msgstr "Je ne peux pas tuer ce qui est déjà mort."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDSMALLMEAT
+msgid "I'll need more than appetizers if I'm going to survive."
+msgstr "Je vais avoir besoin de plus de hors-d'œuvre si je vais survivre."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MAXWELL
+msgid "He's so condescending."
+msgstr "Il est tellement condescendant."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PICKAXE
+msgid "It's very pointy."
+msgstr "Il est très pointu."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLESPOTS
+msgid "Ewwwww."
+msgstr "Ewwwww."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HONEY
+msgid "Sweet and delicious!"
+msgstr "Doux et délicieux!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.GENERIC
+msgid "It looks like it would burn well."
+msgstr "It looks like it would burn well."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.CHOPPED
+msgid "One less tree in the world."
+msgstr "One less tree in the world."
+
+#: STRINGS.NAMES.EVERGREEN
+msgid "Evergreen"
+msgstr "Agaç"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNT
+msgid "I wish it was still burning."
+msgstr "Je voudrais qu'il brûlait encore."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNING
+msgid "YES! BURN!"
+msgstr "OUI! BURN!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BLOWDART_FIRE
+msgid "This is my favourite thing in the whole wide world."
+msgstr "This is my favourite thing in the whole wide world."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HONEYCOMB
+msgid "It's waxy."
+msgstr "It's waxy."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_WINTER
+msgid "It's so soft and squishy!"
+msgstr "It's so soft and squishy!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
+msgid "Arise my phoenix!"
+msgstr "Arise my phoenix!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
+msgid "Is there such a thing as too much fire?"
+msgstr "Is there such a thing as too much fire?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
+msgid "Needs more fire!"
+msgstr "Needs more fire!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
+msgid "How long is this going to take?"
+msgstr "How long is this going to take?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
+msgid "I'm getting tired of waiting."
+msgstr "I'm getting tired of waiting."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LEIF
+msgid "He looks flammable!"
+msgstr "He looks flammable!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SILK
+msgid "Mmmmmm. Smooth."
+msgstr "Mmmmmm. Smooth."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.GENERIC
+msgid "He's nasty. I should kill him."
+msgstr "He's nasty. I should kill him."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.SLEEPING
+msgid "I could take him."
+msgstr "I could take him."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.DEAD
+msgid "Ha! I showed you!"
+msgstr "Ha! I showed you!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PETALS
+msgid "Stupid flowers. They're almost useless."
+msgstr "Stupid flowers. They're almost useless."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRIES
+msgid "Red berries taste the best."
+msgstr "Red berries taste the best."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEBOX.GENERIC
+msgid "Come on fat bees, make me honey!"
+msgstr "Come on fat bees, make me honey!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEBOX.READY
+msgid "Yay! I can steal honey!"
+msgstr "Yay! I can steal honey!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH_MAXWELL
+msgid "What kind of jerk leaves this lying around?"
+msgstr "What kind of jerk leaves this lying around?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.GENERIC
+msgid "So annoying!"
+msgstr "So annoying!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.HELD
+msgid "Keep that mouth away from me!"
+msgstr "Keep that mouth away from me!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENT
+msgid "I got all the badges in Girl Scouts."
+msgstr "I got all the badges in Girl Scouts."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEEDS
+msgid "Farming is boring."
+msgstr "Farming is boring."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.REEDS.GENERIC
+msgid "It's a burnable clump of reeds"
+msgstr "It's a burnable clump of reeds"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.REEDS.PICKED
+msgid "I can't do anything with reed stubble."
+msgstr "I can't do anything with reed stubble."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.REEDS.BURNING
+msgid "Burn! Yeah!"
+msgstr "Burn! Yeah!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_SUMMER
+msgid "Well, part of him is still cuddly."
+msgstr "Well, part of him is still cuddly."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RAZOR
+msgid "Why did I build this?"
+msgstr "Why did I build this?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORMHOLE.GENERIC
+msgid "Poke it with a stick!"
+msgstr "Poke it with a stick!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORMHOLE.OPEN
+msgid "I wonder if he likes spicy food?"
+msgstr "I wonder if he likes spicy food?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEHIVE
+msgid "It's full of bees!"
+msgstr "It's full of bees!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.GENERIC
+msgid "I should pick it."
+msgstr "I should pick it."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.PICKED
+msgid "Poor little limp tree."
+msgstr "Poor little limp tree."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGKING
+msgid "Blech. What a slob."
+msgstr "Blech. What a slob."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_CRANK
+msgid "What's this part good for?"
+msgstr "What's this part good for?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_SANITY
+msgid "Like being wrapped in smoke."
+msgstr "Like being wrapped in smoke."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER
+msgid "He's so fuzzy!"
+msgstr "He's so fuzzy!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARCOAL
+msgid "Mmmm. Smells like fire."
+msgstr "Mmmm. Smells like fire."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_SUMMER
+msgid "We will be great friends!"
+msgstr "We will be great friends!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MONSTERMEAT
+msgid "Gross. It's full of hairs."
+msgstr "Gross. It's full of hairs."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_COOKED
+msgid "I'm still not sure I want to eat this."
+msgstr "I'm still not sure I want to eat this."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT
+msgid "It's like fire, but purple!"
+msgstr "It's like fire, but purple!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.AXE
+msgid "It's very sharp."
+msgstr "It's very sharp."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMEAT
+msgid "I've tasted better."
+msgstr "I've tasted better."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPEAR
+msgid "Feel my wrath!"
+msgstr "Feel my wrath!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPOILED_FOOD
+msgid "At least it's still flammable."
+msgstr "At least it's still flammable."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTERHAT
+msgid "It's not warm enough for my liking."
+msgstr "It's not warm enough for my liking."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.GENERIC
+msgid "Not quite a phoenix but still cute, I guess."
+msgstr "Not quite a phoenix but still cute, I guess."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.HUNGRY
+msgid "Are you hungry?"
+msgstr "Are you hungry?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.STARVING
+msgid "Ok, ok! I get it, you're hungry."
+msgstr "Ok, ok! I get it, you're hungry."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD
+msgid "That could totally catch on fire."
+msgstr "That could totally catch on fire."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUG_SAPLING
+msgid "What's the matter, got no dirt?"
+msgstr "What's the matter, got no dirt?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRD
+msgid "I don't think it wants to be friends."
+msgstr "I don't think it wants to be friends."
