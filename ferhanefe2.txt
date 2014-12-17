@@ -1,110 +1,110 @@
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GENERIC
 msgid "Sigh. It's a pile of dirt."
-msgstr "Sigh. It's a pile of dirt."
+msgstr "Ahh.çamur yigini."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GROWING
 msgid "Hurry up, dirtpile. Feed me!"
-msgstr "Hurry up, dirtpile. Feed me!"
+msgstr "Çabuk ol, kir torbası. Beni besle!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgid "Stupid thing needs poop."
-msgstr "Stupid thing needs poop."
+msgstr "Saçma şeyler çikmasi lazim..."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.STINGER
 msgid "It's pokey!"
-msgstr "It's pokey!"
+msgstr "pokey!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEBOX
 msgid "That is the opposite of fire."
-msgstr "That is the opposite of fire."
+msgstr "Atesin tam zıttı."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_WINTER
 msgid "He sure looks warm..."
-msgstr "He sure looks warm ..."
+msgstr "Çok sicak görünüyor ..."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS_SACK
 msgid "I've got a new bag!"
-msgstr "I've got a new bag!"
+msgstr "Yeni çantam var!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_COOKED
 msgid "Fire makes them so much better."
-msgstr "Fire makes them so much better."
+msgstr "Ates onlari daha güzel yapiyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUGNET
 msgid "I can catch a bug!"
-msgstr "I can catch a bug!"
+msgstr "Böcek yakaliyabilirim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERQUEEN
 msgid "Kill it with fire!"
-msgstr "Kill it with fire!"
+msgstr "Atesle öldür!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTMAREFUEL
 msgid "Eww, it's still warm!"
-msgstr "Eww, it's still warm!"
+msgstr "Eww, hala sicak!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.POOP
 msgid "Ew. Nasty. But useful."
-msgstr "Ew. Nasty. But useful."
+msgstr "Ew. igrenç. ama is görur."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER
 msgid "I don't have time to waste on flowers."
-msgstr "I don't have time to waste on flowers."
+msgstr "Çiçeklere harciyacak zamanim yok."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE
 msgid "Eh. I guess that's OK."
-msgstr "Eh. I guess that's OK."
+msgstr "Eh. fena degil."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORWOOD
 msgid "Now I can take on the world!"
-msgstr "Now I can take on the world!"
+msgstr "Suan dünyayi bile alabilirim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.GENERIC
 msgid "Flutter away, butterfly!"
-msgstr "Flutter away, butterfly!"
+msgstr "Süzül, kelebek!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.HELD
 msgid "I want to squish it."
-msgstr "I want to squish it."
+msgstr "Onu ezmek istiyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESURRECTIONSTATUE
 msgid "That's my insurance policy."
-msgstr "That's my insurance policy."
+msgstr "O benim hayat sigortam."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM
 msgid "I hate hiding."
-msgstr "I hate hiding."
+msgstr "Saklanmaktan nefret ediyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgid "I like the way the symbols glow."
-msgstr "I like the way the symbols glow."
+msgstr "Sembollerin parlama sekli hosuma gidiyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.ACTIVE
 msgid "I just want to see this world burn."
-msgstr "I just want to see this world burn."
+msgstr "Bu dünyanın yandigini görmegi çok istiyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 msgid "I'm making a monstrosity!"
-msgstr "I'm making a monstrosity!"
+msgstr "Canavar yapiyorum!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.GENERIC
 msgid "I wish they didn't run away!"
-msgstr "I wish they didn't run away!"
+msgstr "Umarim kaçmazlar!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.HELD
 msgid "They're like little fires in my pocket!"
-msgstr "They're like little fires in my pocket!"
+msgstr "Cebimdeki küçük ateşler gibiler!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMONSTERMEAT
 msgid "It's still gross."
-msgstr "It's still gross."
+msgstr "hala igrenç."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARDHAIR
 msgid "Uh, where did this come from?"
-msgstr "Uh, where did this come from?"
+msgstr "Uh, bu nerden geldi?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBITHOLE
 msgid "Stupid rabbits. Come out so I can eat you."
-msgstr "Stupid rabbits. Come out so I can eat you."
+msgstr "Aptal tavsanlar.Çikin ki sizi yiyeyim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUSHHAT
 msgid "Too passive!"
@@ -112,35 +112,35 @@ msgstr "Çok pasif!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.GENERIC
 msgid "It's rude to stare."
-msgstr "It's rude to stare."
+msgstr "Dik dik bakmak kabaliktir."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.WAITING
 msgid "At least it's not looking at me anymore."
-msgstr "At least it's not looking at me anymore."
+msgstr "En azından artik bana bakmiyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHOVEL
 msgid "Not great for fighting."
-msgstr "Not great for fighting."
+msgstr "Dövüsmek icin güzel degil."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GENERIC
 msgid "I'll eat it if I have to."
-msgstr "I'll eat it if I have to."
+msgstr "Zorunda olsam yerim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.READY
 msgid "Oh boy. Vegetables."
-msgstr "Oh boy. Vegetables."
+msgstr "Ow.Sebzeler."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GROWING
 msgid "Hurry up, you stupid plant!"
-msgstr "Hurry up, you stupid plant!"
+msgstr "Acele et, seni aptal bitki!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BOX
 msgid "It feels warm."
-msgstr "It feels warm."
+msgstr "Çok sicak hissettiriyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.GENERIC
 msgid "Bird prison!"
-msgstr "Bird prison!"
+msgstr "Kus hapsi!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.SLEEPING
 msgid "Stupid bird. Wake up!"
@@ -152,47 +152,47 @@ msgstr "Ha! Simdi sana sahibim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH
 msgid "It would be better with fire."
-msgstr "It would be better with fire."
+msgstr "Atesle olsa daha güzel olurdu."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_WINTER
 msgid "Not as warm as a good fire, but still pretty good!"
-msgstr "Not as warm as a good fire, but still pretty good!"
+msgstr "Bir ates kadar iyi degil,ama yinede çok güzel !"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE_ITEM
 msgid "These are surprisingly heavy."
-msgstr "These are surprisingly heavy."
+msgstr "Bunlar hayretedilecek sekilde agir."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_SUMMER
 msgid "Now I'll be with my friend forever."
-msgstr "Now I'll be with my friend forever."
+msgstr "Bundan sonra arkadasimla sonsuza dek beraberim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DIRTPILE
 msgid "Who just leaves dirt lying around in the forest?"
-msgstr "Who just leaves dirt lying around in the forest?"
+msgstr "Kim bu pisligi ormanin ortasina birakiyor?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANIMAL_TRACK
 msgid "It leads to my new friend."
-msgstr "It leads to my new friend."
+msgstr "Beni yeni arkadasima yönlendiriyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgid "Maybe I could kill it... with FIRE."
-msgstr "Maybe I could kill it... with FIRE."
+msgstr "Onu öldürmeliyim belki... ATESLE."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "Maybe I should just leave that one alone."
-msgstr "Maybe I should just leave that one alone."
+msgstr "Belki bu sefer yalnız birakmaliyim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.DEAD
 msgid "He had it coming."
-msgstr "He had it coming."
+msgstr "Haketmisti."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG
 msgid "Does it like fire?"
-msgstr "Does it like fire?"
+msgstr "Atese benziyormu?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_TREE.GENERIC
 msgid "It looks dangerous!"
-msgstr "It looks dangerous!"
+msgstr "Tehlikeli gözüküyor!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_TREE.CHOPPED
 msgid "Not so spiky now, are you?"
