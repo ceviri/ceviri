@@ -1,0 +1,503 @@
+#: STRINGS.CHARACTERS.WENDY.BATTLECRY.PREY
+msgid "Suffer, worm!"
+msgstr "Suffer, worm!"
+
+#: STRINGS.CHARACTERS.WENDY.BATTLECRY.PIG
+msgid "Let death embrace you!"
+msgstr "Let death embrace you!"
+
+#: STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER_WARRIOR
+msgid "I will be your end!"
+msgstr "I will be your end!"
+
+#: STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER
+msgid "I shall send you to the other side!"
+msgstr "I shall send you to the other side!"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_WORMHOLE
+msgid "I emerge into this world once more."
+msgstr "I emerge into this world once more."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_INV_FULL
+msgid "I can carry no more."
+msgstr "Daha fazla tasiyamam"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL_GENERIC
+msgid "I can't do anything right."
+msgstr "I can't do anything right."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_EAT.STALE
+msgid "Was that stale?"
+msgstr "Was that stale?"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_EAT.PAINFUL
+msgid "That was not edible."
+msgstr "That was not edible."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_EAT.SPOILED
+msgid "That food was nearing the end of its lifetime."
+msgstr "That food was nearing the end of its lifetime."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.GENERIC
+msgid "He's wandering mindlessly, oblivious to his fate."
+msgstr "He's wandering mindlessly, oblivious to his fate."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.HELD
+msgid "He is safely in my embrace."
+msgstr "He is safely in my embrace."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_PLANT
+msgid "It's a plant."
+msgstr "It's a plant."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PANFLUTE
+msgid "Music is the window to my empty soul."
+msgstr "Music is the window to my empty soul."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TEENBIRD.GENERIC
+msgid "Will you leave me too?"
+msgstr "Will you leave me too?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TEENBIRD.HUNGRY
+msgid "We all try to fill the void."
+msgstr "We all try to fill the void."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TEENBIRD.STARVING
+msgid "Your true nature is revealed!"
+msgstr "Your true nature is revealed!"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_HAY
+msgid "That is the mere suggestion of defense."
+msgstr "That is the mere suggestion of defense."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.GENERIC
+msgid "Take thy beak from out my heart!"
+msgstr "Take thy beak from out my heart!"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.HELD
+msgid "He is mine."
+msgstr "He is mine."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.GENERIC
+msgid "They are so standoffish."
+msgstr "They are so standoffish.."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.WEREPIG
+msgid "A creature of the night!"
+msgstr "A creature of the night!"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.FOLLOWER
+msgid "I still feel alone."
+msgstr "I still feel alone."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.DEAD
+msgid "He's better off, now."
+msgstr "He's better off, now."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ROPE
+msgid "That would be the easy way out of this place."
+msgstr "That would be the easy way out of this place."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING
+msgid "It has no sharp edges."
+msgstr "It has no sharp edges."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT
+msgid "It smells like tiny fear."
+msgstr "It smells like tiny fear."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOUND.GENERIC
+msgid "Some day, I will join you."
+msgstr "Some day, I will join you."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOUND.DUG
+msgid "The earth has vomited up its secrets."
+msgstr "The earth has vomited up its secrets."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BABYBEEFALO
+msgid "Enjoy your youth. Soon you will learn the terrors of the real world."
+msgstr "Enjoy your youth. Soon you will learn the terrors of the real world."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTSTONE
+msgid "The better to mark graves with."
+msgstr "The better to mark graves with."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FROG.GENERIC
+msgid "He's little and warty."
+msgstr "He's little and warty."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FROG.SLEEPING
+msgid "He's asleep."
+msgstr "He's asleep."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FROG.DEAD
+msgid "Life is small and short."
+msgstr "Life is small and short."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.GHOST
+msgid "He has risen from the grave!"
+msgstr "He has risen from the grave!"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BOARDS
+msgid "Even scarier for the trees."
+msgstr "Even scarier for the trees."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.COOKEDSMALLMEAT
+msgid "Fire has purified it."
+msgstr "Fire has purified it."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TWIGS
+msgid "Plucked from the ground before their prime."
+msgstr "Plucked from the ground before their prime."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MAXWELL
+msgid "I feel a strange kinship with him."
+msgstr "I feel a strange kinship with him."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PICKAXE
+msgid "So that I may penetrate the earth itself."
+msgstr "So that I may penetrate the earth itself."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TENTACLESPOTS
+msgid "These are better left unmentioned."
+msgstr "These are better left unmentioned."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HONEY
+msgid "A sweet, but fleeting treat."
+msgstr "A sweet, but fleeting treat."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.EVERGREEN.GENERIC
+msgid "Nature is so boring."
+msgstr "Nature is so boring."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.EVERGREEN.CHOPPED
+msgid "Everything dies."
+msgstr "Everything dies."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.EVERGREEN.BURNT
+msgid "Used up and done for."
+msgstr "Used up and done for."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.EVERGREEN.BURNING
+msgid "It's burning brightly."
+msgstr "It's burning brightly."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLOWDART_FIRE
+msgid "Shall I burn down the world?"
+msgstr "Shall I burn down the world?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HONEYCOMB
+msgid "Pieces of beehive, scattered."
+msgstr "Pieces of beehive, scattered."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK
+msgid "A tiny package full of death and destruction."
+msgstr "A tiny package full of death and destruction."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
+msgid "A tiny fragile being, struggling towards the light."
+msgstr "A tiny fragile being, struggling towards the light."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
+msgid "It cannot bear the heat."
+msgstr "Il ne peut pas supporter la chaleur."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
+msgid "Chilled by the darkness."
+msgstr "Refroidi par l'obscurité."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
+msgid "A life sooner begun is a life sooner ended."
+msgstr "Une vie plus tôt commencé une vie plus tôt fini."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
+msgid "Soon now."
+msgstr "Peu de temps maintenant."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TORCH
+msgid "A tiny bulwark against the night."
+msgstr "Un petit rempart contre la nuit."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SILK
+msgid "So slippery and fine."
+msgstr "Si glissant et fine."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
+msgid "Evil is sleeping."
+msgstr "Mal dort."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.DEAD
+msgid "We will meet again some day."
+msgstr "Nous nous reverrons un jour."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PETALS
+msgid "I have destroyed something beautiful."
+msgstr "J'ai détruit quelque chose de beau."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
+msgid "These berries are tart."
+msgstr "Ces baies sont tarte."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEBOX.GENERIC
+msgid "They shall labour so I can steal."
+msgstr "Ils travaillent pour que je puisse voler."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEBOX.READY
+msgid "Their toils have been fruitful!"
+msgstr "Leurs peines ont été fructueuses!"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_TEETH_MAXWELL
+msgid "Death when I least expect it."
+msgstr "Mort quand je m'y attends le moins."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOSQUITO.GENERIC
+msgid "Takes life so it may live."
+msgstr "Prend la vie si elle peut vivre."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOSQUITO.HELD
+msgid "I can feel its stolen warmth."
+msgstr "Je peux sentir sa chaleur volé."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TENT
+msgid "Sleep is but a preview of death."
+msgstr "Mais le sommeil est un aperçu de la mort."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SEEDS
+msgid "Life, or at least the promise of it."
+msgstr "La vie, ou du moins la promesse de celui-ci."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.GENERIC
+msgid "It's just a bunch of reeds."
+msgstr "C'est juste un tas de roseaux."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.PICKED
+msgid "I have picked them."
+msgstr "Je les ai pris."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.BURNING
+msgid "Soon to be ashes."
+msgstr "Bientôt cendres."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TRUNK_SUMMER
+msgid "I would have preferred the ears."
+msgstr "J'aurais préféré les oreilles."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RAZOR
+msgid "This is just for shaving."
+msgstr "C'est juste pour le rasage."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMHOLE.GENERIC
+msgid "Life doesn't always make sense."
+msgstr "La vie n'a pas toujours de sens."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMHOLE.OPEN
+msgid "No matter what it consumes, it is never satisfied."
+msgstr "Peu importe ce qu'il consomme, il n'est jamais satisfait."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEHIVE
+msgid "A wretched hive of scum and pollen."
+msgstr "Une ruche misérable d'écume et de pollen."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SAPLING.GENERIC
+msgid "It's trying to grow up."
+msgstr "Il essaie de grandir."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SAPLING.PICKED
+msgid "Maybe next time, sapling."
+msgstr "Peut-être que la prochaine fois, gaules."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SAPLING.BURNING
+msgid "Consigned to the flames."
+msgstr "Livrés aux flammes."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGKING
+msgid "Live it up while you can, Your Majesty."
+msgstr "Live it up pendant que vous le pouvez, Votre Majesté."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_CRANK
+msgid "It looks complicated."
+msgstr "Il semble compliqué."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_SANITY
+msgid "A perfectly safe way to go insane."
+msgstr "Une façon parfaitement sûr de devenir fou."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
+msgid "A fuzzy ball of emptiness."
+msgstr "Une boule floue de vide."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARCOAL
+msgid "It is cold and dead, like my heart."
+msgstr "Il fait froid et mort, comme si mon cœur."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.KOALEFANT_SUMMER
+msgid "A beast of solitude."
+msgstr "Une bête de solitude."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MONSTERMEAT
+msgid "Evilness prevades it."
+msgstr "Evilness il prevades."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TRUNK_COOKED
+msgid "It looks even worse now."
+msgstr "Il semble encore pire maintenant."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTLIGHT
+msgid "Eerie and yet beautiful."
+msgstr "Étrange et pourtant belle."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.AXE
+msgid "An instrument for industry and murder."
+msgstr "Un instrument pour l'industrie et assassiner."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.COOKEDMEAT
+msgid "The blood has been cooked away."
+msgstr "Le sang a été cuit loin."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL
+msgid "That's my twin sister, Abigail."
+msgstr "C'est ma sœur jumelle, Abigail."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOHAT
+msgid "I shall cover my head."
+msgstr "Je vais me couvrir la tête."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FOOD
+msgid "Everything turns to waste, eventually."
+msgstr "Tout tourne à perdre, finalement."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTERHAT
+msgid "It helps stave off the encroaching cold."
+msgstr "Il aide conjurer le froid envahissant."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLBIRD.GENERIC
+msgid "Hello there, little one."
+msgstr "Bonjour, mon petit."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLBIRD.HUNGRY
+msgid "Are you empty inside?"
+msgstr "Vous êtes vide à l'intérieur?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLBIRD.STARVING
+msgid "A black hole from which seeds never return."
+msgstr "Un trou noir dont les graines ne reviennent jamais."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD
+msgid "Now I can delay the inevitable."
+msgstr "Maintenant, je peux retarder l'inévitable."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRD
+msgid "Free from the shackles of the sky."
+msgstr "Libérer des chaînes du ciel."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FARMPLOT.GENERIC
+msgid "What seeds shall I sow?"
+msgstr "Que je sème des graines doit?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FARMPLOT.GROWING
+msgid "Leafy tendrils coil out of the muck."
+msgstr "Leafy bobine vrilles de la boue."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+msgid "This earth is cold and dead."
+msgstr "Cette terre est froide et morte."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.STINGER
+msgid "Sharp and deadly."
+msgstr "Sharp et mortelle."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ICEBOX
+msgid "It is as cold as my heart."
+msgstr "Il est aussi froid que mon cœur."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.KOALEFANT_WINTER
+msgid "It stands against the cruel elements."
+msgstr "Il se dresse contre les éléments cruelles."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS_SACK
+msgid "It's smells of goat."
+msgstr "C'est odeurs de chèvre."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_COOKED
+msgid "All that promise, snatched away. Not bad with bacon."
+msgstr "Tout ce que promesse, arrachée. Pas mal avec du lard."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BUGNET
+msgid "A prison for tiny insects."
+msgstr "Une prison pour les petits insectes."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERQUEEN
+msgid "She is regal in her horribleness."
+msgstr "Elle est la reine dans son horribleness."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTMAREFUEL
+msgid "With the sleep of dreams comes this stuff."
+msgstr "Avec le sommeil des rêves est ce genre de choses."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.POOP
+msgid "Life is blood and this."
+msgstr "La vie est ce sang et."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FLOWER
+msgid "They are bright and cheery. Yuck."
+msgstr "Elles sont lumineuses et gaies. Beurk."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_STONE
+msgid "What will protect me from what's inside?"
+msgstr "Que va me protéger de ce qu'il ya dedans?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORWOOD
+msgid "I might hold off the inevitable a bit longer with this."
+msgstr "Je pourrais retarder l'inévitable un peu plus à ce sujet."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLY.GENERIC
+msgid "Pretty, but short-lived."
+msgstr "Joli, mais de courte durée."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLY.HELD
+msgid "I hold its life in my hands."
+msgstr "Je tiens sa vie entre mes mains."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RESURRECTIONSTATUE
+msgid "I'm just putting off the inevitable."
+msgstr "Je suis juste repousser l'inévitable."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD_ITEM
+msgid "Bundled logs."
+msgstr "Journaux groupés."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRYBUSH.GENERIC
+msgid "A snack, perchance?"
+msgstr "Un casse-croûte, par hasard?"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRYBUSH.PICKED
+msgid "I shall have to wait."
+msgstr "Je vais devoir attendre."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRYBUSH.BARREN
+msgid "It is barren."
+msgstr "Il est stérile."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.ROCKS
+msgid "Some small rocks."
+msgstr "Quelques petites roches."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTGRASS
+msgid "I like to kill small things."
+msgstr "Je tiens à tuer les petites choses."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LOG
+msgid "If trees could talk, they would scream at the sight of this."
+msgstr "Si les arbres pouvaient parler, ils crient à la vue de cela."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIREFLIES.GENERIC
+msgid "A tiny brightness in the dark."
+msgstr "Un petit éclat dans l'obscurité."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIREFLIES.HELD
+msgid "Tiny lights, stranded from the world outside my pocket."
+msgstr "Petites lumières, bloqués du monde extérieur ma poche."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MEAT
+msgid "It is still bloody."
+msgstr "Il est encore sanglante."
