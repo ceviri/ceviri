@@ -1,0 +1,499 @@
+#: STRINGS.UI.MAINSCREEN.RESTART
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+#: STRINGS.UI.MAINSCREEN.GIFT
+msgid "Send Gift"
+msgstr "Hediye Gönder"
+
+#: STRINGS.UI.MAINSCREEN.FREEPLAY
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: STRINGS.UI.MAINSCREEN.RATE
+msgid "Rate This Game"
+msgstr "Bu Oyunu Oyla"
+
+#: STRINGS.UI.MAINSCREEN.OK
+msgid "OK"
+msgstr "TAMAM"
+
+#: STRINGS.UI.MAINSCREEN.NEWGAMEDESC
+msgid "This will erase your current save. Continue?"
+msgstr "Kayıtlı oyun silinecek. Devam etmek istiyormusun?"
+
+#: STRINGS.UI.MAINSCREEN.NO
+msgid "No"
+msgstr "Hayir"
+
+#: STRINGS.UI.MAINSCREEN.SLOT_4
+msgid "4"
+msgstr "4"
+
+#: STRINGS.UI.MAINSCREEN.MOTD
+msgid "Don't Starve is currently in beta. Please tell us about any problems that you encounter in the forum."
+msgstr "Don't Starve beta'da. Problemlerinizi forumdan bize söyleyiniz"
+
+#: STRINGS.UI.MAINSCREEN.TESTING
+msgid "This is the testing branch!"
+msgstr "Il s'agit de la branche testing!"
+
+#: STRINGS.UI.MAINSCREEN.TESTINGNO
+msgid "No thank you!"
+msgstr "- Hayir, teşekkür ederim."
+
+#: STRINGS.UI.MAINSCREEN.MODFORUMS
+msgid "Mod Forums"
+msgstr "Ek içerik Forumları"
+
+#: STRINGS.UI.MAINSCREEN.NEWWORLDDESC
+msgid "This will erase your current world and any saved games in it. Continue?"
+msgstr "Cela effacera votre monde actuel et les parties sauvegardées en elle. Continuer?"
+
+#: STRINGS.UI.MAINSCREEN.TESTINGYES
+msgid "I understand"
+msgstr ""Anladım..."
+
+#: STRINGS.UI.MAINSCREEN.SLOT_3
+msgid "3"
+msgstr "3"
+
+#: STRINGS.UI.MAINSCREEN.NEWGAMESHORT
+msgid "Empty"
+msgstr "Boş"
+
+#: STRINGS.UI.MAINSCREEN.SLOT
+msgid "Game Slot"
+msgstr "Oyun Slotu"
+
+#: STRINGS.UI.MAINSCREEN.UNLOCKEVERYTHING
+msgid "Unlock Everything"
+msgstr "Herşeyi Aç"
+
+#: STRINGS.UI.MAINSCREEN.SLOT_2
+msgid "2"
+msgstr "2"
+
+#: STRINGS.UI.MAINSCREEN.NOTIFY
+msgid "Notify Me!"
+msgstr "Bize bildir..."
+
+#: STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
+msgid "Next build imminent!"
+msgstr "Suivant la construction imminente!"
+
+#: STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
+msgid "Data was imported successfully."
+msgstr "Les données ont été importées avec succès."
+
+#: STRINGS.UI.MAINSCREEN.NEWADVENTURE
+msgid "Adventure (TEST)"
+msgstr "Macera (TEST)"
+
+#: STRINGS.UI.MAINSCREEN.GREETING
+msgid "Hi "
+msgstr "Selam  "
+
+#: STRINGS.UI.MAINSCREEN.ENTERPRODUCTKEY
+msgid "Enter Product Key"
+msgstr "Entrez la clé de produit"
+
+#: STRINGS.UI.MAINSCREEN.NEWGAME
+msgid "Start a new game!"
+msgstr "Démarrer une nouvelle partie!"
+
+#: STRINGS.UI.MAINSCREEN.MODQUIT
+msgid "No way!"
+msgstr "Giriş Yok"
+
+#: STRINGS.UI.MAINSCREEN.MOTDTITLE
+msgid "Message of the Day"
+msgstr "Günün Mesajı"
+
+#: STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
+msgid "Next Update: %d days"
+msgstr "Prochaine mise à jour: %d jours"
+
+#: STRINGS.UI.MAINSCREEN.NEWGAMETYPE
+msgid "What kind of game would you like to play?"
+msgstr "Quel genre de jeu voulez-vous jouer?"
+
+#: STRINGS.UI.MAINSCREEN.SURE
+msgid "Are you sure?"
+msgstr "emin misin?"
+
+#: STRINGS.UI.MAINSCREEN.OPTIONS
+msgid "Options"
+msgstr "Seçenekler"
+
+#: STRINGS.UI.MAINSCREEN.FRESHBUILD
+msgid "Fresh Build!"
+msgstr "Fresh Build!"
+
+#: STRINGS.UI.MAINSCREEN.NEWFREEPLAYCUSTOM
+msgid "Sandbox (Custom)"
+msgstr "Sandbox (Custom)"
+
+#: STRINGS.UI.MAINSCREEN.MODDETAIL2
+msgid "Klei is not able to help you should issues arise while using mods. Use with caution!"
+msgstr "Klei is not able to help you should issues arise while using mods. Use with caution!"
+
+#: STRINGS.UI.MAINSCREEN.TESTINGDETAIL
+msgid "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
+msgstr "You may encounter bugs or broken features, and you may lose your save game when we update. Please report all problems in the forum."
+
+#: STRINGS.UI.MAINSCREEN.SETTINGS
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: STRINGS.UI.MAINSCREEN.ASKQUIT
+msgid "Do you really want to quit?"
+msgstr "Çikmak istediginize emin misiniz?"
+
+#: STRINGS.UI.MAINSCREEN.UNKNOWNGAME
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#: STRINGS.UI.MAINSCREEN.PLAYDEMO
+msgid "Play Demo"
+msgstr "Demo Oyna"
+
+#: STRINGS.UI.MAINSCREEN.YES
+msgid "Yes"
+msgstr "Evet"
+
+#: STRINGS.UI.MAINSCREEN.MODTITLE
+msgid "Mods Installed!"
+msgstr "Eklenti Yüklendi!"
+
+#: STRINGS.UI.MAINSCREEN.RESETGAMEDESC
+msgid "This will reset your current world. Continue?"
+msgstr "This will reset your current world. Continue?"
+
+#: STRINGS.UI.MAINSCREEN.CHEATS
+msgid "Cheats"
+msgstr "Cheats"
+
+#: STRINGS.UI.MAINSCREEN.IMPORTFAIL
+msgid "Failed to load"
+msgstr "Yüklenirken hata olustu"
+
+#: STRINGS.UI.MAINSCREEN.IMPORTSUCCESS
+msgid "Success"
+msgstr "Basarili"
+
+#: STRINGS.UI.MAINSCREEN.ASKQUITDESC
+msgid "Wilson will miss you!"
+msgstr "Wilson seni özleyecegiz!"
+
+#: STRINGS.UI.MAINSCREEN.MOREGAMES
+msgid "More Games"
+msgstr "Daha fazla oyun"
+
+#: STRINGS.UI.MAINSCREEN.VISITFORUM
+msgid "Visit Forum"
+msgstr "Visit Forum"
+
+#: STRINGS.UI.MAINSCREEN.ACCOUNTINFO
+msgid "Account Info"
+msgstr "Hesap Bilgisi"
+
+#: STRINGS.UI.MAINSCREEN.MODDETAIL
+msgid "Installed mods:"
+msgstr "Yüklenen Eklentiler:"
+
+#: STRINGS.UI.MAINSCREEN.NEWWORLD
+msgid "Create a new world!"
+msgstr "Yeni Dünya Olustur!"
+
+#: STRINGS.UI.MAINSCREEN.ENTERKEY
+msgid "Enter New Key"
+msgstr "Entrer une nouvelle clé"
+
+#: STRINGS.UI.MAINSCREEN.MODS
+msgid "Mods"
+msgstr "Eklentiler"
+
+#: STRINGS.UI.MAINSCREEN.MODFAILDETAIL
+msgid "The following mod(s) have caused a failure:"
+msgstr "The following mod(s) have caused a failure:"
+
+#: STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
+msgid "Last build %d days ago"
+msgstr "Son Build %d gün önce"
+
+#: STRINGS.UI.MAINSCREEN.IMPORT
+msgid "Import"
+msgstr "İçeri Al"
+
+#: STRINGS.UI.MAINSCREEN.SLOT_1
+msgid "1"
+msgstr "1"
+
+#: STRINGS.UI.MAINSCREEN.ADVENTURE
+msgid "Adventure"
+msgstr "Macera"
+
+#: STRINGS.UI.MAINSCREEN.PLAY
+msgid "Play!"
+msgstr "Oyna!"
+
+#: STRINGS.UI.MAINSCREEN.CHOOSEDIR
+msgid "Don't Starve Game Data"
+msgstr "Don't Starve Game Data"
+
+#: STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING
+msgid "This error may have occured due to a mod you have installed!\nYou have the following mods installed:\n"
+msgstr "This error may have occured due to a mod you have installed!\nYou have the following mods installed:\n"
+
+#: STRINGS.UI.MAINSCREEN.SLOTACTION
+msgid "What would you like to do?"
+msgstr "Bunu yapmak istedigine emin misin?"
+
+#: STRINGS.UI.MAINSCREEN.DELETE
+msgid "Delete"
+msgstr "Sil"
+
+#: STRINGS.UI.PAUSEMENU.SAVEANDQUITTITLE
+msgid "Save and return to main menu?"
+msgstr "Kaydet ve Ana Menü'ye dön?"
+
+#: STRINGS.UI.PAUSEMENU.SAVEANDQUIT
+msgid "Save and Quit"
+msgstr "Kaydet ve Çik"
+
+#: STRINGS.UI.PAUSEMENU.QUITTITLE
+msgid "Return to main menu?"
+msgstr "Ana Menü'ye dön?"
+
+#: STRINGS.UI.PAUSEMENU.QUITBODY
+msgid "Leaving so soon?"
+msgstr "Leaving so soon?"
+
+#: STRINGS.UI.PAUSEMENU.SAVEANDQUITBODY
+msgid "Don't worry. We'll be waiting for you."
+msgstr "Meraklanma. Seni bekliyor olacagiz"
+
+#: STRINGS.UI.PAUSEMENU.TITLE
+msgid "Paused"
+msgstr "Durduruldu"
+
+#: STRINGS.UI.PAUSEMENU.SAVEANDQUITYES
+msgid "I said quit!"
+msgstr "Çıkacagım!"
+
+#: STRINGS.UI.PAUSEMENU.SAVEANDQUITNO
+msgid "Never mind..."
+msgstr "Bosver."
+
+#: STRINGS.UI.CHARACTERSELECT.BACK
+msgid "BACK"
+msgstr "Geri"
+
+#: STRINGS.UI.CHARACTERSELECT.PLAY
+msgid "PLAY"
+msgstr "OYNA"
+
+#: STRINGS.UI.EMAILSCREEN.MAR
+msgid "Mar"
+msgstr "Mar"
+
+#: STRINGS.UI.EMAILSCREEN.APR
+msgid "Apr"
+msgstr "Av"
+
+#: STRINGS.UI.EMAILSCREEN.INVALIDDATETITLE
+msgid "Invalid Date"
+msgstr "Invalid Date"
+
+#: STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
+msgid "Subscribe Complete"
+msgstr "Subscribe Complete"
+
+#: STRINGS.UI.EMAILSCREEN.DEC
+msgid "Dec"
+msgstr "Dec."
+
+#: STRINGS.UI.EMAILSCREEN.SEP
+msgid "Sep"
+msgstr "Sep."
+
+#: STRINGS.UI.EMAILSCREEN.OK
+msgid "Ok"
+msgstr "Ok"
+
+#: STRINGS.UI.EMAILSCREEN.MONTH
+msgid "M"
+msgstr "M"
+
+#: STRINGS.UI.EMAILSCREEN.EMAIL
+msgid "Email:"
+msgstr "Email:"
+
+#: STRINGS.UI.EMAILSCREEN.AUG
+msgid "Aug"
+msgstr "Aout"
+
+#: STRINGS.UI.EMAILSCREEN.YEAR
+msgid "YYYY"
+msgstr "aaaa"
+
+#: STRINGS.UI.EMAILSCREEN.OCT
+msgid "Oct"
+msgstr "Oct."
+
+#: STRINGS.UI.EMAILSCREEN.JUN
+msgid "Jun"
+msgstr "Juin"
+
+#: STRINGS.UI.EMAILSCREEN.NOV
+msgid "Nov"
+msgstr "Nov"
+
+#: STRINGS.UI.EMAILSCREEN.JUL
+msgid "Jul"
+msgstr "Juil"
+
+#: STRINGS.UI.EMAILSCREEN.JAN
+msgid "Jan"
+msgstr "Jan"
+
+#: STRINGS.UI.EMAILSCREEN.MAY
+msgid "May"
+msgstr "Mai"
+
+#: STRINGS.UI.EMAILSCREEN.FEB
+msgid "Feb"
+msgstr "Fév"
+
+#: STRINGS.UI.EMAILSCREEN.BIRTHDAYREASON
+msgid "We need to know your birthdate in order to send you age appropriate updates!\r\nDon't worry, we won't spam you or sell your information."
+msgstr "We need to know your birthdate in order to send you age appropriate updates!\r\nDon't worry, we won't spam you or sell your information."
+
+#: STRINGS.UI.EMAILSCREEN.BIRTHDAY
+msgid "Birthdate:"
+msgstr "Date de naissance:"
+
+#: STRINGS.UI.MAINSCREEN.CONTROLS
+msgid "Controls"
+msgstr "Kontroller"
+
+#: STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE
+msgid "Invalid Email"
+msgstr "Invalid Email"
+
+#: STRINGS.UI.EMAILSCREEN.SUBSCRIBE
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: STRINGS.UI.EMAILSCREEN.TITLE
+msgid "Keep me updated with Don't Starve news"
+msgstr "Tenez-moi au jour de ne pas mourir de faim nouvelles"
+
+#: STRINGS.UI.EMAILSCREEN.INVALIDEMAIL
+msgid "We aren't psychic! If you don't enter your email address, we won't be able to tell you about new stuff!"
+msgstr "Nous ne sommes pas psychique! Si vous ne saisissez pas votre adresse e-mail, nous ne serons pas en mesure de vous parler de nouveautés!"
+
+#: STRINGS.UI.EMAILSCREEN.DAY
+msgid "D"
+msgstr "D"
+
+#: STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESS
+msgid "Thanks for signing up! You should receive a confirmation email in your inbox."
+msgstr "Merci pour votre inscription! Vous devriez recevoir un email de confirmation dans votre boîte de réception."
+
+#: STRINGS.UI.EMAILSCREEN.INVALIDDATE
+msgid "We need to know your birthdate, otherwise ratings people will get mad at us for emailing you content that might not be appropriate for all ages."
+msgstr "Nous avons besoin de connaître votre date de naissance, sinon les gens notation obtiendrez en colère contre nous à envoyer le contenu que vous pourriez ne pas être approprié pour tous les âges."
+
+#: STRINGS.UI.HUD.READY
+msgid "How long will you survive?"
+msgstr "Ne zamandir hayattasin?"
+
+#: STRINGS.UI.HUD.MAP
+msgid "MAP\n(tab)"
+msgstr "Harita \n"
+
+#: STRINGS.UI.HUD.WORLD
+msgid "World"
+msgstr "Dünya"
+
+#: STRINGS.UI.HUD.READYTITLE
+msgid "Ready to play!"
+msgstr "Oynamaya Hazir!"
+
+#: STRINGS.UI.HUD.SAVING
+msgid "SAVING..."
+msgstr "KAYDEDILIYOR..."
+
+#: STRINGS.UI.HUD.HERE
+msgid "here"
+msgstr "burası ..."
+
+#: STRINGS.UI.HUD.START
+msgid "Start"
+msgstr "Basla"
+
+#: STRINGS.CHARACTER_QUOTES.wilson
+msgid "\"I will conquer it all with the power of my MIND!\""
+msgstr "\ "Je vais conquérir tout cela avec la puissance de mon esprit! \""
+
+#: STRINGS.CHARACTER_QUOTES.wendy
+msgid "\"Abigail? Come back! I'm not done playing with you.\""
+msgstr "\ "Abigail? Revenez! Je ne suis pas fini de jouer avec vous. \""
+
+#: STRINGS.CHARACTER_QUOTES.wx78
+msgid "\"EMPATHY MODULE NOT RESPONDING\""
+msgstr "\ "MODULE EMPATHIE NE RÉPOND PAS \""
+
+#: STRINGS.CHARACTER_QUOTES.willow
+msgid "\"Things are so much prettier when they burn.\""
+msgstr "\ "Les choses sont tellement plus joli quand ils brûlent. \""
+
+#: STRINGS.CHARACTER_QUOTES.wes
+msgid "..."
+msgstr "..."
+
+#: STRINGS.CHARACTER_QUOTES.wickerbottom
+msgid "\"Shhhh! No talking!\""
+msgstr "\ "Shhhht! Konusma! \""
+
+#: STRINGS.CHARACTER_QUOTES.wolfgang
+msgid "\"I am mighty! No one is mightier!\""
+msgstr "\ "Je suis puissant! Personne n'est plus puissant! \""
+
+#: STRINGS.PIG_TALK_FIND_MEAT.1
+msgid "ME HUNGRY!"
+msgstr "AÇIM!"
+
+#: STRINGS.PIG_TALK_FIND_MEAT.2
+msgid "YUM!"
+msgstr "HAM!"
+
+#: STRINGS.PIG_TALK_FIND_MEAT.3
+msgid "I EAT FOOD!"
+msgstr "YEMEK YIYORUM!"
+
+#: STRINGS.PIG_TALK_FIND_MEAT.4
+msgid "TIME FOR FOOD!"
+msgstr "YEMEK ZAMANI!"
+
+#: STRINGS.PIG_TALK_LOOKATWILSON.1
+msgid "WHO ARE YOU?"
+msgstr "KIMSIN?"
+
+#: STRINGS.PIG_TALK_LOOKATWILSON.2
+msgid "YOU NOT PIG"
+msgstr "DOMUZ DEGILSIN"
+
+#: STRINGS.PIG_TALK_LOOKATWILSON.3
+msgid "UGLY MONKEY MAN"
+msgstr "CIRKIN MAYMUN ADAM"
+
+#: STRINGS.PIG_TALK_LOOKATWILSON.4
+msgid "YOU HAS MEAT?"
+msgstr "YOU HAS MEAT?"
+
+#: STRINGS.PIGNAMES.1
+msgid "Augustus"
+msgstr "Augustus"
