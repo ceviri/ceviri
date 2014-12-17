@@ -1,0 +1,499 @@
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GENERIC
+msgid "Sigh. It's a pile of dirt."
+msgstr "Sigh. It's a pile of dirt."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GROWING
+msgid "Hurry up, dirtpile. Feed me!"
+msgstr "Hurry up, dirtpile. Feed me!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+msgid "Stupid thing needs poop."
+msgstr "Stupid thing needs poop."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.STINGER
+msgid "It's pokey!"
+msgstr "It's pokey!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEBOX
+msgid "That is the opposite of fire."
+msgstr "That is the opposite of fire."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_WINTER
+msgid "He sure looks warm..."
+msgstr "He sure looks warm ..."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS_SACK
+msgid "I've got a new bag!"
+msgstr "I've got a new bag!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_COOKED
+msgid "Fire makes them so much better."
+msgstr "Fire makes them so much better."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUGNET
+msgid "I can catch a bug!"
+msgstr "I can catch a bug!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERQUEEN
+msgid "Kill it with fire!"
+msgstr "Kill it with fire!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTMAREFUEL
+msgid "Eww, it's still warm!"
+msgstr "Eww, it's still warm!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.POOP
+msgid "Ew. Nasty. But useful."
+msgstr "Ew. Nasty. But useful."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER
+msgid "I don't have time to waste on flowers."
+msgstr "I don't have time to waste on flowers."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE
+msgid "Eh. I guess that's OK."
+msgstr "Eh. I guess that's OK."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORWOOD
+msgid "Now I can take on the world!"
+msgstr "Now I can take on the world!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.GENERIC
+msgid "Flutter away, butterfly!"
+msgstr "Flutter away, butterfly!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.HELD
+msgid "I want to squish it."
+msgstr "I want to squish it."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESURRECTIONSTATUE
+msgid "That's my insurance policy."
+msgstr "That's my insurance policy."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM
+msgid "I hate hiding."
+msgstr "I hate hiding."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.GENERIC
+msgid "I like the way the symbols glow."
+msgstr "I like the way the symbols glow."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.ACTIVE
+msgid "I just want to see this world burn."
+msgstr "I just want to see this world burn."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.PARTIAL
+msgid "I'm making a monstrosity!"
+msgstr "I'm making a monstrosity!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.GENERIC
+msgid "I wish they didn't run away!"
+msgstr "I wish they didn't run away!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.HELD
+msgid "They're like little fires in my pocket!"
+msgstr "They're like little fires in my pocket!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMONSTERMEAT
+msgid "It's still gross."
+msgstr "It's still gross."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARDHAIR
+msgid "Uh, where did this come from?"
+msgstr "Uh, where did this come from?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBITHOLE
+msgid "Stupid rabbits. Come out so I can eat you."
+msgstr "Stupid rabbits. Come out so I can eat you."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUSHHAT
+msgid "Too passive!"
+msgstr "Çok pasif!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.GENERIC
+msgid "It's rude to stare."
+msgstr "It's rude to stare."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.WAITING
+msgid "At least it's not looking at me anymore."
+msgstr "At least it's not looking at me anymore."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHOVEL
+msgid "Not great for fighting."
+msgstr "Not great for fighting."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GENERIC
+msgid "I'll eat it if I have to."
+msgstr "I'll eat it if I have to."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.READY
+msgid "Oh boy. Vegetables."
+msgstr "Oh boy. Vegetables."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GROWING
+msgid "Hurry up, you stupid plant!"
+msgstr "Hurry up, you stupid plant!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BOX
+msgid "It feels warm."
+msgstr "It feels warm."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.GENERIC
+msgid "Bird prison!"
+msgstr "Bird prison!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.SLEEPING
+msgid "Stupid bird. Wake up!"
+msgstr "Aptal Kus. Uyan!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.OCCUPIED
+msgid "Ha! I have you now!"
+msgstr "Ha! Simdi sana sahibim!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH
+msgid "It would be better with fire."
+msgstr "It would be better with fire."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_WINTER
+msgid "Not as warm as a good fire, but still pretty good!"
+msgstr "Not as warm as a good fire, but still pretty good!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE_ITEM
+msgid "These are surprisingly heavy."
+msgstr "These are surprisingly heavy."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_SUMMER
+msgid "Now I'll be with my friend forever."
+msgstr "Now I'll be with my friend forever."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DIRTPILE
+msgid "Who just leaves dirt lying around in the forest?"
+msgstr "Who just leaves dirt lying around in the forest?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANIMAL_TRACK
+msgid "It leads to my new friend."
+msgstr "It leads to my new friend."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.GENERIC
+msgid "Maybe I could kill it... with FIRE."
+msgstr "Maybe I could kill it... with FIRE."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.SLEEPING
+msgid "Maybe I should just leave that one alone."
+msgstr "Maybe I should just leave that one alone."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER_WARRIOR.DEAD
+msgid "He had it coming."
+msgstr "He had it coming."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG
+msgid "Does it like fire?"
+msgstr "Does it like fire?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_TREE.GENERIC
+msgid "It looks dangerous!"
+msgstr "It looks dangerous!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_TREE.CHOPPED
+msgid "Not so spiky now, are you?"
+msgstr "Not so spiky now, are you?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS
+msgid "Stay back, you big jerk!"
+msgstr "Stay back, you big jerk!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PAPYRUS
+msgid "I bet it'd burn!"
+msgstr "I bet it'd burn!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_HAY_ITEM
+msgid "Hmmm. I wonder if these will burn."
+msgstr "Hmmm. I wonder if these will burn."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTSWORD
+msgid "It's like my dreams can hurt real things!"
+msgstr "It's like my dreams can hurt real things!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREASURECHEST
+msgid "It's a trunk for my junk."
+msgstr "It's a trunk for my junk."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTER
+msgid "Tasty, and just a little bit insecty"
+msgstr "Tasty, and just a little bit insecty"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLYWINGS
+msgid "No more flying for that butterfly!"
+msgstr "No more flying for that butterfly!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KILLERBEE.GENERIC
+msgid "I like the cut of that bee's jib."
+msgstr "I like the cut of that bee's jib."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KILLERBEE.HELD
+msgid "Buzz!"
+msgstr "buzz"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.GENERIC
+msgid "What a disgusting, hairy beast!"
+msgstr "What a disgusting, hairy beast!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.SLEEPING
+msgid "They look even dumber when they're sleeping."
+msgstr "They look even dumber when they're sleeping."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.FOLLOWER
+msgid "Er, are you following me?"
+msgstr "Er, are you following me?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.NAKED
+msgid "Ha! He's all naked now!"
+msgstr "Ha! He's all naked now!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDNUGGET
+msgid "Where am I going to spend this."
+msgstr "Where am I going to spend this"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.GENERIC
+msgid "It's fat, but that stinger looks dangerous."
+msgstr "It's fat, but that stinger looks dangerous."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.HELD
+msgid "Pocket full of bees!"
+msgstr "Pocket full of bees!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.GENERIC
+msgid "I like fire."
+msgstr "Atesi severim."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.OUT
+msgid "Awww. It's all over."
+msgstr "Awww. It's all over."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.EMBERS
+msgid "Uh oh. It's almost gone!"
+msgstr "Uh oh. It's almost gone!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.HIGH
+msgid "BURN! BURN FASTER!"
+msgstr "YAN! DAHA FAZLA YAN!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.LOW
+msgid "This fire is small and boring."
+msgstr "This fire is small and boring."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.NORMAL
+msgid "Burn!"
+msgstr "Yaniyor!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREPIT.GENERIC
+msgid "I could watch it for hours."
+msgstr "I could watch it for hours."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREPIT.OUT
+msgid "I should make the fire come back."
+msgstr "I should make the fire come back."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP
+msgid "It's a bit passive aggressive, but it'll work."
+msgstr "It's a bit passive aggressive, but it'll work."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_POTATO
+msgid "Perhaps I could melt it into a more pleasing shape."
+msgstr "Perhaps I could melt it into a more pleasing shape."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.GENERIC
+msgid "It's flammable a tuft of grass."
+msgstr "It's flammable a tuft of grass."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.PICKED
+msgid "Grass stubble is kind of useless."
+msgstr "Grass stubble is kind of useless."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BARREN
+msgid "It needs poop."
+msgstr "Gübre gerektirir."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BURNING
+msgid "Fire! Wooo!"
+msgstr "Ates! Wooo!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MANDRAKE.GENERIC
+msgid "That's not a normal plant"
+msgstr "That's not a normal plant"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MANDRAKE.PICKED
+msgid "Now that's just creepy!"
+msgstr "Now that's just creepy!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MANDRAKE.DEAD
+msgid "Why did this plant have a face?"
+msgstr "Why did this plant have a face?"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.GENERIC
+msgid "Mmmmm. Berries."
+msgstr "Mmmmm. Bogürtlenler."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.PICKED
+msgid "I want more berries!"
+msgstr "Daha fazla bogürtlen istiyorum!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.BARREN
+msgid "Eat poop, stupid plant!"
+msgstr "Eat poop, stupid plant!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERHAT
+msgid "Who's your mommy!"
+msgstr "Who's your mommy!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOWOOL
+msgid "Ha! I stole his hair!"
+msgstr "Ha! I stole his hair!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH
+msgid "Fire is so pretty."
+msgstr "Fire is so pretty."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERDEN
+msgid "That's just nasty."
+msgstr "That's just nasty."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.GENERIC
+msgid "These pigs have questionable taste in architecture"
+msgstr "These pigs have questionable taste in architecture"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.LIGHTSOUT
+msgid "You jerk! Let me in!"
+msgstr "You jerk! Let me in!"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.FULL
+msgid "He's doing pig things in there."
+msgstr "He's doing pig things in there."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_BUSH
+msgid "Ouch! It looks sharp."
+msgstr "Ouch! It looks sharp."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDTRAP
+msgid "I'll catch those creepy birds."
+msgstr "I'll catch those creepy birds."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PITCHFORK
+msgid "Three times the pointiness."
+msgstr "Three times the pointiness."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMMER
+msgid "I prefer sharp implements"
+msgstr "I prefer sharp implements"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARROT
+msgid "Yuck. It's all vegetabley."
+msgstr "Yuck. It's all vegetabley."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PINECONE
+msgid "Hey there, tree seed."
+msgstr "Hey there, tree seed."
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HUNGRY
+msgid "I need food!"
+msgstr "Yemege ihtiyacim var!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_WORMHOLE
+msgid "I'll have to burn these clothes!"
+msgstr "I'll have to burn these clothes!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DUSK
+msgid "Night is coming. I need fire!"
+msgstr "Gece Yaklasiyor. Atese ihtiyacim var!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HUNT_LOST_TRAIL
+msgid "Ohh... he got away."
+msgstr "Ohh... he got away."
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE_TOODARK
+msgid "I need more light!"
+msgstr "Daha fazla Isiga ihtiyacim var!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HOUNDS
+msgid "Show yourself!"
+msgstr "Kendini Göster!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PECKED
+msgid "No! Bad birdy!"
+msgstr "No! Bad birdy!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTFIRE.1
+msgid "Tee hee!"
+msgstr "Tee hee!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTFIRE.2
+msgid "Pretty!"
+msgstr "Pretty!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTFIRE.3
+msgid "Oops!"
+msgstr "Oops!"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTFIRE.4
+msgid "I made a fire!"
+msgstr "I made a fire!"
+
+#: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.GENERIC
+msgid "That's what I thought!"
+msgstr "That's what I thought!"
+
+#: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.PREY
+msgid "I'll get you next time!"
+msgstr "I'll get you next time!"
+
+#: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.PIG
+msgid "Get back here, pork chop!"
+msgstr "Get back here, pork chop!"
+
+#: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.SPIDER_WARRIOR
+msgid "Not so tough now!"
+msgstr "Not so tough now!"
+
+#: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.SPIDER
+msgid "Bleh. I'll kill him later."
+msgstr "Bleh. I'll kill him later."
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TORCH_OUT
+msgid "My precious fire is gone!"
+msgstr "My precious fire is gone!"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_CHARLIE_ATTACK
+msgid "I am attacked!"
+msgstr "I am attacked!"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_CRAFTING_FAIL
+msgid "I lack the necessary materials."
+msgstr "I lack the necessary materials."
+
+#: STRINGS.CHARACTERS.WENDY.EAT_FOOD.TALLBIRDEGG_CRACKED
+msgid "I spared it the torment of living."
+msgstr "I spared it the torment of living."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_COLD
+msgid "I am chilled to the bone."
+msgstr "I am chilled to the bone."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE_GENERIC
+msgid "It is unmentionable."
+msgstr "It is unmentionable."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_BOOMERANG
+msgid "Ow! That was karma."
+msgstr "Ow! That was karma."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_HUNT_BEAST_NEARBY
+msgid "I sense the beast's presence nearby."
+msgstr "I sense the beast's presence nearby."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_HUNT_LOST_TRAIL
+msgid "This trail leads nowhere."
+msgstr "This trail leads nowhere."
+
+#: STRINGS.CHARACTERS.WENDY.BATTLECRY.GENERIC
+msgid "Death will find you!"
+msgstr "Death will find you!"
