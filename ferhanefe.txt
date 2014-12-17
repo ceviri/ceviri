@@ -1,0 +1,487 @@
+#: STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
+msgid "KILL TREE!"
+msgstr "AGACI KES"
+
+#: STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
+msgid "SMASH MEAN TREE!"
+msgstr "AgACI PARCALA"
+
+#: STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
+msgid "I PUNCH TREE!"
+msgstr "AGACA YUMRUK ATAMAM"
+
+#: STRINGS.PIG_TALK_FIND_LIGHT.1
+msgid "SCARY"
+msgstr "KORKUTUCU"
+
+#: STRINGS.PIG_TALK_FIND_LIGHT.2
+msgid "NO LIKE DARK"
+msgstr "KARANLIGI SEVMEM"
+
+#: STRINGS.PIG_TALK_FIND_LIGHT.3
+msgid "WHERE IS SUN?"
+msgstr "GÜNES NEREDE?"
+
+#: STRINGS.PIG_TALK_FIND_LIGHT.4
+msgid "STAY NEAR FIRE"
+msgstr "ATESIN YANINDA KAL"
+
+#: STRINGS.PIG_TALK_FIND_LIGHT.5
+msgid "FIRE IS GOOD"
+msgstr "ATES GÜZELDIR"
+
+#: STRINGS.CHARACTER_NAMES.wilson
+msgid "Wilson P. Higgsbury"
+msgstr "P. Wilson Higgsbury"
+
+#: STRINGS.CHARACTER_NAMES.wendy
+msgid "Wendy"
+msgstr "Wendy"
+
+#: STRINGS.CHARACTER_NAMES.willow
+msgid "Willow"
+msgstr "Saule"
+
+#: STRINGS.CHARACTER_NAMES.wickerbottom
+msgid "Ms Wickerbottom"
+msgstr "Wickerbottom"
+
+#: STRINGS.CHARACTER_NAMES.wolfgang
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#: STRINGS.CHARACTER_NAMES.woodie
+msgid "Woodie"
+msgstr "Woodie"
+
+#: STRINGS.CHARACTER_NAMES.unknown
+msgid "The Unknown"
+msgstr "BILINMEYEN"
+
+#: STRINGS.CHARACTER_NAMES.wes
+msgid "Wes"
+msgstr "Wes"
+
+#: STRINGS.CHARACTER_NAMES.wx78
+msgid "WX-78"
+msgstr "WX-78"
+
+#: STRINGS.UI.TELEPORTNO
+msgid "Think I'll stay here."
+msgstr "Bence Burda Kalmalıyız."
+
+#: STRINGS.UI.TELEPORTTITLE
+msgid "Journey onwards?"
+msgstr "Journey onwards?"
+
+#: STRINGS.UI.TELEPORTYES
+msgid "Lets Go!"
+msgstr "Hadi Gidelim"
+
+#: STRINGS.UI.CRAFTING.PLACE
+msgid "Place"
+msgstr "YerleStir"
+
+#: STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE
+msgid "Use a science machine to build a prototype!"
+msgstr "Bilim makinesini kullanip Prototip yap!"
+
+#: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
+msgid "Use an alchemy engine to build a prototype!"
+msgstr "Simya motorunu kullanıp Prototip yap!"
+
+#: STRINGS.UI.CRAFTING.CANTRESEARCH
+msgid "Some things are unknowable"
+msgstr "Bazı Seyler Bilinmiyor."
+
+#: STRINGS.UI.CRAFTING.RESEARCH
+msgid "Research"
+msgstr "Arastirma"
+
+#: STRINGS.UI.CRAFTING.BUILD
+msgid "Build"
+msgstr "Yap"
+
+#: STRINGS.UI.CRAFTING.PROTOTYPE
+msgid "Prototype"
+msgstr "Prototip"
+
+#: STRINGS.UI.TELEPORTBODY
+msgid "This will destroy your current world but you will retain your inventory contents"
+msgstr "Bu, gecerli dunyayİ yok edecek ama sizin envanter icerikleriniz kalicak."
+
+#: STRINGS.UI.QUITTING
+msgid "Packing up the science."
+msgstr "Packing up the science."
+
+#: STRINGS.UI.WORLDGEN.NOUNS.1
+msgid "trees"
+msgstr "agaclar"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.2
+msgid "pathos"
+msgstr "pathétique"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.3
+msgid "pines"
+msgstr "camlar"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.4
+msgid "spiders"
+msgstr "orumcekler"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.5
+msgid "monsters"
+msgstr "yaratiklar"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.6
+msgid "a keen sense of despair"
+msgstr "keskin bir umutsuzluk duygusu"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.7
+msgid "Wilson's beard"
+msgstr "Wilson'un sakalı"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.8
+msgid "buckets and buckets of loot"
+msgstr "buckets and buckets of loot"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.9
+msgid "game theory"
+msgstr "oyun teorisi"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.10
+msgid "food"
+msgstr "yiyecek"
+
+#: STRINGS.UI.WORLDGEN.TITLE
+msgid "GENERATING WORLD"
+msgstr "DÜNYA OLUSTURULUYOR"
+
+#: STRINGS.UI.WORLDGEN.VERBS.1
+msgid "Wrangling"
+msgstr "Wrangling"
+
+#: STRINGS.UI.WORLDGEN.VERBS.2
+msgid "Generating"
+msgstr "Oluşturuluyor..."
+
+#: STRINGS.UI.WORLDGEN.VERBS.3
+msgid "Herding"
+msgstr "Hayvan sürüsü"
+
+#: STRINGS.UI.WORLDGEN.VERBS.4
+msgid "Embiggening"
+msgstr "Embiggening"
+
+#: STRINGS.UI.WORLDGEN.VERBS.5
+msgid "Iterating upon"
+msgstr "üzerine yenileme"
+
+#: STRINGS.UI.WORLDGEN.VERBS.6
+msgid "Insinuating"
+msgstr "üstü kapalı"
+
+#: STRINGS.UI.WORLDGEN.VERBS.7
+msgid "Reticulating"
+msgstr "retikülasyon"
+
+#: STRINGS.UI.WORLDGEN.VERBS.8
+msgid "Inserting"
+msgstr "Ekleniyor"
+
+#: STRINGS.UI.WORLDGEN.VERBS.9
+msgid "Framing"
+msgstr "Çerçeveleme"
+
+#: STRINGS.UI.DEATHSCREEN.YOUESCAPED
+msgid "You escaped!"
+msgstr "Kaçtın!"
+
+#: STRINGS.UI.DEATHSCREEN.NEXTREWARD
+msgid "Next Reward..."
+msgstr "Sıradaki Ödül ..."
+
+#: STRINGS.UI.DEATHSCREEN.SURVIVEDDAYS
+msgid "You survived"
+msgstr "Kurtuldun"
+
+#: STRINGS.UI.DEATHSCREEN.RETRY
+msgid "Retry"
+msgstr "Tekrar dene"
+
+#: STRINGS.UI.DEATHSCREEN.CONTINUE
+msgid "Continue"
+msgstr "Devam et"
+
+#: STRINGS.UI.DEATHSCREEN.DAYS
+msgid "days"
+msgstr "günler"
+
+#: STRINGS.UI.DEATHSCREEN.LEVEL
+msgid "Level "
+msgstr "Seviye "
+
+#: STRINGS.UI.DEATHSCREEN.MAINMENU
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: STRINGS.UI.DEATHSCREEN.YOUAREDEAD
+msgid "YOU ARE DEAD!"
+msgstr "Öldün Moruk!"
+
+#: STRINGS.UI.DEATHSCREEN.FORUM
+msgid "Forum"
+msgstr "Forum"
+
+#: STRINGS.UI.DEATHSCREEN.DAY
+msgid "day"
+msgstr " gün"
+
+#: STRINGS.UI.QUITTINGTITLE
+msgid "Quitting!"
+msgstr "Çıkılıyor!"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESLOW
+msgid "Slow"
+msgstr "yavas"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDERARE
+msgid "Less"
+msgstr "Daha Az"
+
+#: STRINGS.UI.SANDBOXMENU.GENERATE
+msgid "Next"
+msgstr "Sıradaki"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEVERYFAST
+msgid "Very Fast"
+msgstr "Çok hızlı"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICECOOKED
+msgid "Prepared Food"
+msgstr "Yiyecek Hazırla"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICEMONSTERS
+msgid "Monsters"
+msgstr "Yaratıklar"
+
+#: STRINGS.UI.SANDBOXMENU.MEDIUM
+msgid "Quite Difficult"
+msgstr "Oldukça Zor"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICEMISC
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: STRINGS.UI.SANDBOXMENU.TITLEDETAIL
+msgid ""
+msgstr ""
+
+#: STRINGS.UI.SANDBOXMENU.CHOICERESOURCES
+msgid "Resources"
+msgstr "Arastirmalar"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICEAMTDAY
+msgid "Amount of Day"
+msgstr "Gün Miktarı"
+
+#: STRINGS.UI.SANDBOXMENU.EASY
+msgid "Not Easy"
+msgstr "Kolay Degil"
+
+#: STRINGS.UI.SANDBOXMENU.NIGHT
+msgid "Night"
+msgstr "Gece"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEOFTEN
+msgid "More"
+msgstr " Daha fazla"
+
+#: STRINGS.UI.SANDBOXMENU.DUSK
+msgid "Dusk"
+msgstr "Aksam karanligi"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESMEDIUM
+msgid "Medium"
+msgstr "orta"
+
+#: STRINGS.UI.SANDBOXMENU.HARD
+msgid "Overly Taxing"
+msgstr "Asırı Vergi"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEVERYSIMPLE
+msgid "Very Simple"
+msgstr "Çok Basit"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDELONG
+msgid "Long"
+msgstr "Geniş"
+
+#: STRINGS.UI.SANDBOXMENU.BOTH
+msgid "Both"
+msgstr "ikisi de"
+
+#: STRINGS.UI.SANDBOXMENU.MAINMENU
+msgid "Back"
+msgstr "Geri"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESHUGE
+msgid "Huge"
+msgstr "devasa"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX
+msgid "Very Complex"
+msgstr "çok Karmaşık"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDECOMPLEX
+msgid "Complex"
+msgstr "Karmaşık"
+
+#: STRINGS.UI.SANDBOXMENU.WINTER
+msgid "Winter"
+msgstr "Kış"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESIMPLE
+msgid "Simple"
+msgstr "Basit"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESMALL
+msgid "Default"
+msgstr "sabit"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESLARGE
+msgid "Large"
+msgstr "Büyük"
+
+#: STRINGS.UI.SANDBOXMENU.SUMMER
+msgid "Summer"
+msgstr "Yaz"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEFAST
+msgid "Fast"
+msgstr "Hızlı"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICEFOOD
+msgid "Food"
+msgstr "Yiyecek"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDENEVER
+msgid "None"
+msgstr "Aucun"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEALWAYS
+msgid "Lots"
+msgstr "Beaucoup."
+
+#: STRINGS.UI.SANDBOXMENU.SLIDESHORT
+msgid "Short"
+msgstr "Présélection"
+
+#: STRINGS.UI.SANDBOXMENU.TITLE
+msgid "World Customisation"
+msgstr "Personnalisation du monde"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEVERYSLOW
+msgid "Very Slow"
+msgstr "Très lente"
+
+#: STRINGS.UI.SANDBOXMENU.DAY
+msgid "Day"
+msgstr " jour"
+
+#: STRINGS.UI.SANDBOXMENU.SLIDEALL
+msgid "Only"
+msgstr "Seul"
+
+#: STRINGS.UI.SANDBOXMENU.CHOICEANIMALS
+msgid "Animals"
+msgstr "Animaux"
+
+#: STRINGS.UI.OPTIONS.RESOLUTION
+msgid "Resolution:"
+msgstr "Çözünürlük:"
+
+#: STRINGS.UI.OPTIONS.DISTORTION
+msgid "Distortion:"
+msgstr "Çarpıtma"
+
+#: STRINGS.UI.OPTIONS.APPLY
+msgid "Apply"
+msgstr "Uygula"
+
+#: STRINGS.UI.OPTIONS.ACCEPT
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: STRINGS.UI.OPTIONS.DISABLED
+msgid "Disabled"
+msgstr "pasif"
+
+#: STRINGS.UI.OPTIONS.REVERT
+msgid "Revert Changes"
+msgstr "Degişiklikleri Geri al"
+
+#: STRINGS.UI.OPTIONS.CLOSE
+msgid "Close"
+msgstr "Kapat"
+
+#: STRINGS.UI.OPTIONS.DISPLAY
+msgid "Display:"
+msgstr "Ekran:"
+
+#: STRINGS.UI.OPTIONS.BLOOM
+msgid "Bloom:"
+msgstr "Çevre:"
+
+#: STRINGS.UI.OPTIONS.FULLSCREEN
+msgid "Fullscreen:"
+msgstr "Tam Ekran:"
+
+#: STRINGS.UI.OPTIONS.ACCEPTTITLE
+msgid "Accept Changes"
+msgstr "Degişikleri Kaydet"
+
+#: STRINGS.UI.OPTIONS.ACCEPTBODY
+msgid "Do you wish to accept these changes?"
+msgstr "Degişiklikleri Kaydetmek istiyormusunuz?"
+
+#: STRINGS.UI.OPTIONS.REFRESHRATE
+msgid "Refresh Rate:"
+msgstr "Yenileme Oranı:"
+
+#: STRINGS.UI.OPTIONS.CANCEL
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: STRINGS.UI.OPTIONS.ENABLED
+msgid "Enabled"
+msgstr "Aktif"
+
+#: STRINGS.UI.MAINSCREEN.BUYNOW
+msgid "Buy Now"
+msgstr "Satın Al"
+
+#: STRINGS.UI.MAINSCREEN.MODFAILDETAIL2
+msgid "You can disable the mod(s) in /mod/modsettings.lua"
+msgstr "Vous pouvez désactiver le mod (s) in / mod / modsettings.lua"
+
+#: STRINGS.UI.MAINSCREEN.MODFAILTITLE
+msgid "WARNING!"
+msgstr "UYARI!"
+
+#: STRINGS.UI.MAINSCREEN.NEWADVENTURE_WARN
+msgid "The new adventure system is currently in active development and is provided for testing purposes. It will probably contain bugs."
+msgstr "Le système de nouvelle aventure est en cours de développement actif et est fournie à des fins de test. Il sera sans doute contenir des bugs."
+
+#: STRINGS.UI.MAINSCREEN.RESETPROFILE
+msgid "Reset profile!"
+msgstr "Profil Sıfırla!"
+
+#: STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT
+msgid "Exit Game"
+msgstr "Oyundan Çık"
+
+#: STRINGS.UI.MAINSCREEN.EXIT
+msgid "Exit"
+msgstr "Çikis"
