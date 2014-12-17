@@ -448,7 +448,7 @@ msgstr "Gelecek sefere alicam seni!"
 
 #: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.PIG
 msgid "Get back here, pork chop!"
-msgstr "Geri dö buraya, domuz pirzolo!"
+msgstr "Geri dön buraya, domuz pirzolo!"
 
 #: STRINGS.CHARACTERS.WILLOW.COMBAT_QUIT.SPIDER_WARRIOR
 msgid "Not so tough now!"
