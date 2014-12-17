@@ -40,7 +40,7 @@ msgstr "Wendy"
 
 #: STRINGS.CHARACTER_NAMES.willow
 msgid "Willow"
-msgstr "Saule"
+msgstr "Willow"
 
 #: STRINGS.CHARACTER_NAMES.wickerbottom
 msgid "Ms Wickerbottom"
@@ -72,7 +72,7 @@ msgstr "Bence Burda Kalmalıyız."
 
 #: STRINGS.UI.TELEPORTTITLE
 msgid "Journey onwards?"
-msgstr "Journey onwards?"
+msgstr "Yolculuk ileri?"
 
 #: STRINGS.UI.TELEPORTYES
 msgid "Lets Go!"
@@ -112,7 +112,7 @@ msgstr "Bu, gecerli dunyayİ yok edecek ama sizin envanter icerikleriniz kalicak
 
 #: STRINGS.UI.QUITTING
 msgid "Packing up the science."
-msgstr "Packing up the science."
+msgstr "Bilim toparlanıyor."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.1
 msgid "trees"
@@ -120,7 +120,7 @@ msgstr "agaclar"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.2
 msgid "pathos"
-msgstr "pathétique"
+msgstr "pathos"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.3
 msgid "pines"
@@ -144,7 +144,7 @@ msgstr "Wilson'un sakalı"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.8
 msgid "buckets and buckets of loot"
-msgstr "buckets and buckets of loot"
+msgstr "Sürüyle ganimet"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.9
 msgid "game theory"
@@ -160,7 +160,7 @@ msgstr "DÜNYA OLUSTURULUYOR"
 
 #: STRINGS.UI.WORLDGEN.VERBS.1
 msgid "Wrangling"
-msgstr "Wrangling"
+msgstr "Dalasma"
 
 #: STRINGS.UI.WORLDGEN.VERBS.2
 msgid "Generating"
@@ -172,7 +172,7 @@ msgstr "Hayvan sürüsü"
 
 #: STRINGS.UI.WORLDGEN.VERBS.4
 msgid "Embiggening"
-msgstr "Embiggening"
+msgstr "Büyüyor"
 
 #: STRINGS.UI.WORLDGEN.VERBS.5
 msgid "Iterating upon"
