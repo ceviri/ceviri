@@ -8,7 +8,7 @@ msgstr "AgACI PARCALA"
 
 #: STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 msgid "I PUNCH TREE!"
-msgstr "AGACA YUMRUK ATAMAM"
+msgstr "AGACA YUMRUK ATTIM"
 
 #: STRINGS.PIG_TALK_FIND_LIGHT.1
 msgid "SCARY"
@@ -172,7 +172,7 @@ msgstr "Hayvan sürüsü"
 
 #: STRINGS.UI.WORLDGEN.VERBS.4
 msgid "Embiggening"
-msgstr "Büyüyor"
+msgstr "Büyütülüyor"
 
 #: STRINGS.UI.WORLDGEN.VERBS.5
 msgid "Iterating upon"
@@ -260,7 +260,7 @@ msgstr "Çok hızlı"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICECOOKED
 msgid "Prepared Food"
-msgstr "Yiyecek Hazırla"
+msgstr "Hazır Yiyecek"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICEMONSTERS
 msgid "Monsters"
@@ -348,7 +348,7 @@ msgstr "Basit"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESMALL
 msgid "Default"
-msgstr "sabit"
+msgstr "Varsayılan"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESLARGE
 msgid "Large"
@@ -360,7 +360,7 @@ msgstr "Yaz"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEFAST
 msgid "Fast"
-msgstr "Hızlı"
+msgstr "Hizli"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICEFOOD
 msgid "Food"
@@ -368,35 +368,35 @@ msgstr "Yiyecek"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDENEVER
 msgid "None"
-msgstr "Aucun"
+msgstr "None"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEALWAYS
 msgid "Lots"
-msgstr "Beaucoup."
+msgstr "Çok."
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESHORT
 msgid "Short"
-msgstr "Présélection"
+msgstr "Kisa"
 
 #: STRINGS.UI.SANDBOXMENU.TITLE
 msgid "World Customisation"
-msgstr "Personnalisation du monde"
+msgstr "Dünya Ozellestirme"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEVERYSLOW
 msgid "Very Slow"
-msgstr "Très lente"
+msgstr "Çok Yavas"
 
 #: STRINGS.UI.SANDBOXMENU.DAY
 msgid "Day"
-msgstr " jour"
+msgstr "Gün"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEALL
 msgid "Only"
-msgstr "Seul"
+msgstr "Tek"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICEANIMALS
 msgid "Animals"
-msgstr "Animaux"
+msgstr "Hayvanlar"
 
 #: STRINGS.UI.OPTIONS.RESOLUTION
 msgid "Resolution:"
@@ -416,7 +416,7 @@ msgstr "Kabul Et"
 
 #: STRINGS.UI.OPTIONS.DISABLED
 msgid "Disabled"
-msgstr "pasif"
+msgstr "Vazgeç"
 
 #: STRINGS.UI.OPTIONS.REVERT
 msgid "Revert Changes"
@@ -464,7 +464,7 @@ msgstr "Satın Al"
 
 #: STRINGS.UI.MAINSCREEN.MODFAILDETAIL2
 msgid "You can disable the mod(s) in /mod/modsettings.lua"
-msgstr "Vous pouvez désactiver le mod (s) in / mod / modsettings.lua"
+msgstr "Modlari buradan / mod / modsettings.lua devre disi birakabilirsiniz"
 
 #: STRINGS.UI.MAINSCREEN.MODFAILTITLE
 msgid "WARNING!"
@@ -472,7 +472,7 @@ msgstr "UYARI!"
 
 #: STRINGS.UI.MAINSCREEN.NEWADVENTURE_WARN
 msgid "The new adventure system is currently in active development and is provided for testing purposes. It will probably contain bugs."
-msgstr "Le système de nouvelle aventure est en cours de développement actif et est fournie à des fins de test. Il sera sans doute contenir des bugs."
+msgstr "Yeni macera sistemi aktif geliştirilme aşamasında ve test amaçlı sağlanmıştır.Oyun içi hata içerebilir."
 
 #: STRINGS.UI.MAINSCREEN.RESETPROFILE
 msgid "Reset profile!"
