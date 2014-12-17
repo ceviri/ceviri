@@ -68,7 +68,7 @@ msgstr "WX-78"
 
 #: STRINGS.UI.TELEPORTNO
 msgid "Think I'll stay here."
-msgstr "Bence Burda Kalmalıyız."
+msgstr "Bence Burda Kalmaliyiz."
 
 #: STRINGS.UI.TELEPORTTITLE
 msgid "Journey onwards?"
@@ -88,7 +88,7 @@ msgstr "Bilim makinesini kullanip Prototip yap!"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "Simya motorunu kullanıp Prototip yap!"
+msgstr "Simya motorunu kullanip Prototip yap!"
 
 #: STRINGS.UI.CRAFTING.CANTRESEARCH
 msgid "Some things are unknowable"
@@ -112,7 +112,7 @@ msgstr "Bu, gecerli dunyayİ yok edecek ama sizin envanter icerikleriniz kalicak
 
 #: STRINGS.UI.QUITTING
 msgid "Packing up the science."
-msgstr "Bilim toparlanıyor."
+msgstr "Bilim toparlaniyor."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.1
 msgid "trees"
@@ -140,7 +140,7 @@ msgstr "keskin bir umutsuzluk duygusu"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.7
 msgid "Wilson's beard"
-msgstr "Wilson'un sakalı"
+msgstr "Wilson'un sakali"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.8
 msgid "buckets and buckets of loot"
@@ -180,7 +180,7 @@ msgstr "üzerine yenileme"
 
 #: STRINGS.UI.WORLDGEN.VERBS.6
 msgid "Insinuating"
-msgstr "üstü kapalı"
+msgstr "üstü kapali"
 
 #: STRINGS.UI.WORLDGEN.VERBS.7
 msgid "Reticulating"
@@ -240,7 +240,7 @@ msgstr " gün"
 
 #: STRINGS.UI.QUITTINGTITLE
 msgid "Quitting!"
-msgstr "Çıkılıyor!"
+msgstr "Çikiliyor!"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESLOW
 msgid "Slow"
@@ -252,19 +252,19 @@ msgstr "Daha Az"
 
 #: STRINGS.UI.SANDBOXMENU.GENERATE
 msgid "Next"
-msgstr "Sıradaki"
+msgstr "Siradaki"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEVERYFAST
 msgid "Very Fast"
-msgstr "Çok hızlı"
+msgstr "Çok hizli"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICECOOKED
 msgid "Prepared Food"
-msgstr "Hazır Yiyecek"
+msgstr "Hazir Yiyecek"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICEMONSTERS
 msgid "Monsters"
-msgstr "Yaratıklar"
+msgstr "Yaratiklar"
 
 #: STRINGS.UI.SANDBOXMENU.MEDIUM
 msgid "Quite Difficult"
@@ -284,7 +284,7 @@ msgstr "Arastirmalar"
 
 #: STRINGS.UI.SANDBOXMENU.CHOICEAMTDAY
 msgid "Amount of Day"
-msgstr "Gün Miktarı"
+msgstr "Gün Miktari"
 
 #: STRINGS.UI.SANDBOXMENU.EASY
 msgid "Not Easy"
@@ -308,7 +308,7 @@ msgstr "orta"
 
 #: STRINGS.UI.SANDBOXMENU.HARD
 msgid "Overly Taxing"
-msgstr "Asırı Vergi"
+msgstr "Asiri Vergi"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEVERYSIMPLE
 msgid "Very Simple"
@@ -332,7 +332,7 @@ msgstr "devasa"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX
 msgid "Very Complex"
-msgstr "çok Karmaşık"
+msgstr "çok Karmaşik"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDECOMPLEX
 msgid "Complex"
@@ -348,7 +348,7 @@ msgstr "Basit"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESMALL
 msgid "Default"
-msgstr "Varsayılan"
+msgstr "Varsayilan"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDESLARGE
 msgid "Large"
@@ -404,7 +404,7 @@ msgstr "Çözünürlük:"
 
 #: STRINGS.UI.OPTIONS.DISTORTION
 msgid "Distortion:"
-msgstr "Çarpıtma"
+msgstr "Çarpitma"
 
 #: STRINGS.UI.OPTIONS.APPLY
 msgid "Apply"
@@ -448,7 +448,7 @@ msgstr "Degişiklikleri Kaydetmek istiyormusunuz?"
 
 #: STRINGS.UI.OPTIONS.REFRESHRATE
 msgid "Refresh Rate:"
-msgstr "Yenileme Oranı:"
+msgstr "Yenileme Orani:"
 
 #: STRINGS.UI.OPTIONS.CANCEL
 msgid "Cancel"
@@ -460,7 +460,7 @@ msgstr "Aktif"
 
 #: STRINGS.UI.MAINSCREEN.BUYNOW
 msgid "Buy Now"
-msgstr "Satın Al"
+msgstr "Satin Al"
 
 #: STRINGS.UI.MAINSCREEN.MODFAILDETAIL2
 msgid "You can disable the mod(s) in /mod/modsettings.lua"
@@ -472,11 +472,11 @@ msgstr "UYARI!"
 
 #: STRINGS.UI.MAINSCREEN.NEWADVENTURE_WARN
 msgid "The new adventure system is currently in active development and is provided for testing purposes. It will probably contain bugs."
-msgstr "Yeni macera sistemi aktif geliştirilme aşamasında ve test amaçlı sağlanmıştır.Oyun içi hata içerebilir."
+msgstr "Yeni macera sistemi aktif gelistirilme asamasında ve test amaçli saglanmiştir.Oyun içi hata içerebilir."
 
 #: STRINGS.UI.MAINSCREEN.RESETPROFILE
 msgid "Reset profile!"
-msgstr "Profil Sıfırla!"
+msgstr "Profil Sifirla!"
 
 #: STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT
 msgid "Exit Game"
