@@ -592,15 +592,15 @@ msgstr "RMB"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE_ATTACK
 msgid "OUCH! You jerk!"
-msgstr "Ouch! Vous branler!"
+msgstr "Ouch! Sseni pislik!"
 
 #: STRINGS.CHARACTERS.WILLOW.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "Ugh. Crunchy."
-msgstr "Ugh. Croquant."
+msgstr "Ugh. Gevrek."
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_COLD
 msgid "The Cold! It burns!"
-msgstr "Le froid! Il brûle!"
+msgstr "The Cold! It burns!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BOOMERANG
 msgid "Stupid boomerang!"
@@ -612,7 +612,7 @@ msgstr "Sen veya ben!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PREY
 msgid "Get over here!"
-msgstr "Get over here!"
+msgstr "Buraya gel!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PIG
 msgid "Stupid Pig!"
@@ -672,95 +672,95 @@ msgstr "Beni düsündigini hissediyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.HUNGRY
 msgid "He sure eats a lot."
-msgstr "Il mange certainement beaucoup."
+msgstr "He sure eats a lot."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.STARVING
 msgid "Don't look at me! Get your own food."
-msgstr "Ne me regarde pas! Obtenez votre propre nourriture."
+msgstr "Bana bakma! Herkesin yemegi kendine."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_HAY
 msgid "That looks so flammable!"
-msgstr "Cela semble si inflammable!"
+msgstr "Çok yanıcı görünüyor!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CROW.GENERIC
 msgid "I think it's waiting for me to die."
-msgstr "Je pense qu'il attend que je meure."
+msgstr "Bence ölmemi bekliyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CROW.HELD
 msgid "Not so smart now, are you?"
-msgstr "Pas si intelligent maintenant, êtes-vous?"
+msgstr Akıl saglıgımı yitirdim, ya sen?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GENERIC
 msgid "Ugh. They're fragrant."
-msgstr "Ugh. Ils sont parfumés."
+msgstr "Ugh. Kokuyorlar."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.WEREPIG
 msgid "Bring it on, piggie!"
-msgstr "Bring it on, piggie!"
+msgstr "Getir onu Piggie!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.FOLLOWER
 msgid "Ick. It's following me."
-msgstr "Ick. Il me suit."
+msgstr "Ick. Pesimden geliyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.DEAD
 msgid "I wonder how they taste."
-msgstr "Je me demande comment ils goûtent."
+msgstr "Tadı degisik."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB
 msgid "Even I don't know everything, yet."
-msgstr "Même moi, je ne sais pas tout, encore."
+msgstr "Henüz herseyi bilmiyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_RING
 msgid "This is too precious to burn!"
-msgstr "C'est trop précieux pour brûler!"
+msgstr "Yakmak için çok kıymetli!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT
 msgid "I could make this better with FIRE!"
-msgstr "Je pourrais faire mieux avec ce feu!"
+msgstr "Atesle daha iyi yapabilirim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOUND.GENERIC
 msgid "It's full of dead stuff, I bet."
-msgstr "C'est plein de trucs morts, je parie."
+msgstr "Bahse girerim ölü seylerle dolu."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOUND.DUG
 msgid "Better it than me."
-msgstr "Mieux que moi."
+msgstr "Benimkinden daha iyi."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "Even the babies are ugly."
-msgstr "Même les bébés sont moches."
+msgstr "Bebekler bile çirkin."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "WAKE UP!"
-msgstr "Reveille toi."
+msgstr "Uyan!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.GENERIC
 msgid "He's too damp to burn."
-msgstr "Il est trop humide pour brûler."
+msgstr "Yakmak için çok islak."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.SLEEPING
 msgid "They're cute when they're sleeping."
-msgstr "Ils sont mignons quand ils dorment."
+msgstr "Uyuduklarında daha sevimliler."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FROG.DEAD
 msgid "I showed him!"
-msgstr "Je lui ai montré!"
+msgstr "Gösterdim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GHOST
 msgid "I can't kill what's already dead."
-msgstr "Je ne peux pas tuer ce qui est déjà mort."
+msgstr "Çoktan ölmüs bir seyi öldüremem."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDSMALLMEAT
 msgid "I'll need more than appetizers if I'm going to survive."
-msgstr "Je vais avoir besoin de plus de hors-d'œuvre si je vais survivre."
+msgstr "Hayatta kalacaksam atıstırmalıktan daha fazlasına ihtiyacım var."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MAXWELL
 msgid "He's so condescending."
-msgstr "Il est tellement condescendant."
+msgstr "Fazla küçümsüyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PICKAXE
 msgid "It's very pointy."
-msgstr "Il est très pointu."
+msgstr "Çok sivri."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLESPOTS
 msgid "Ewwwww."
@@ -768,15 +768,15 @@ msgstr "Ewwwww."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HONEY
 msgid "Sweet and delicious!"
-msgstr "Doux et délicieux!"
+msgstr "Tatlı ve lezzetli!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.GENERIC
 msgid "It looks like it would burn well."
-msgstr "It looks like it would burn well."
+msgstr "İyi yakılabilir gibi gözüküyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.CHOPPED
 msgid "One less tree in the world."
-msgstr "One less tree in the world."
+msgstr "Dünyadan bi ağaç daha eksildi."
 
 #: STRINGS.NAMES.EVERGREEN
 msgid "Evergreen"
@@ -784,19 +784,19 @@ msgstr "Agaç"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNT
 msgid "I wish it was still burning."
-msgstr "Je voudrais qu'il brûlait encore."
+msgstr "Umuyorum hala yanıyordur."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNING
 msgid "YES! BURN!"
-msgstr "OUI! BURN!"
+msgstr "EVVET! YAN!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BLOWDART_FIRE
 msgid "This is my favourite thing in the whole wide world."
-msgstr "This is my favourite thing in the whole wide world."
+msgstr "Su dünyadaki en favori düsüncem."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HONEYCOMB
 msgid "It's waxy."
-msgstr "It's waxy."
+msgstr "Yapıs yapıs."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_WINTER
 msgid "It's so soft and squishy!"
@@ -812,35 +812,35 @@ msgstr "Is there such a thing as too much fire?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 msgid "Needs more fire!"
-msgstr "Needs more fire!"
+msgstr "Daha fazla atese ihtiyacım var!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
 msgid "How long is this going to take?"
-msgstr "How long is this going to take?"
+msgstr "Alması ne kadar sürecek?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgid "I'm getting tired of waiting."
-msgstr "I'm getting tired of waiting."
+msgstr "Beklemekten yoruldum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LEIF
 msgid "He looks flammable!"
-msgstr "He looks flammable!"
+msgstr "Yanıcı görünüyor!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SILK
 msgid "Mmmmmm. Smooth."
-msgstr "Mmmmmm. Smooth."
+msgstr "Mmmmmm. Pürüzsüz."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.GENERIC
 msgid "He's nasty. I should kill him."
-msgstr "He's nasty. I should kill him."
+msgstr "Çok edepsiz. Onu öldürmeliyim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.SLEEPING
 msgid "I could take him."
-msgstr "I could take him."
+msgstr "Alabilirdim."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDER.DEAD
 msgid "Ha! I showed you!"
-msgstr "Ha! I showed you!"
+msgstr "Ha! Seni gösterdim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PETALS
 msgid "Stupid flowers. They're almost useless."
