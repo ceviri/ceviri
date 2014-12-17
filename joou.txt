@@ -580,7 +580,7 @@ msgstr "BU TARAFTAN!"
 
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.3
 msgid "YOU BACK OFF!"
-msgstr "GERİ ÇEKİL!"
+msgstr "GERİDE KAL!"
 
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.4
 msgid "THAT MY SPACE."
@@ -608,7 +608,7 @@ msgstr "Aptal Bumerang!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.GENERIC
 msgid "It's you or me!"
-msgstr "It's you or me!"
+msgstr "Sen veya ben!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PREY
 msgid "Get over here!"
@@ -620,7 +620,7 @@ msgstr "Aptal Domuz!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER_WARRIOR
 msgid "Ew, kill iiiit!"
-msgstr "Ew, kill iiiit!"
+msgstr "Ew, Gebert sunu!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER
 msgid "Grrrrar!"
@@ -640,11 +640,11 @@ msgstr "That was kinda gross."
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.PAINFUL
 msgid "Ugh! Nasty!"
-msgstr "Ugh! Nasty!"
+msgstr "Ugh! Pis!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.SPOILED
 msgid "That tasted terrible!"
-msgstr "That tasted terrible!"
+msgstr "Tadı İgrenç!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE
 msgid "I'm not afraid of you!"
@@ -656,7 +656,7 @@ msgstr "Lezzetli görünüyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBIT.HELD
 msgid "I have him where I want him!"
-msgstr "I have him where I want him!"
+msgstr "İstedigim an one sahibim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MARSH_PLANT
 msgid "It's all planty."
@@ -664,11 +664,11 @@ msgstr "It's all planty."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANFLUTE
 msgid "Music is boring."
-msgstr "Music is boring."
+msgstr "Müzik sıkıcı."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.GENERIC
 msgid "I feel like he understands me."
-msgstr "I feel like he understands me."
+msgstr "Beni düsündigini hissediyorum."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TEENBIRD.HUNGRY
 msgid "He sure eats a lot."
