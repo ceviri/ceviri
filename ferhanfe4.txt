@@ -1,0 +1,499 @@
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.HUNGRY
+msgid "Small bird is hungry."
+msgstr "Petit oiseau a faim."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.STARVING
+msgid "Small bird will die from starving."
+msgstr "Petit oiseau va mourir de faim."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_WOOD
+msgid "Hello, pointy sticks!"
+msgstr "Bonjour, bâtons pointus!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUG_SAPLING
+msgid "He is cold and lonely."
+msgstr "Il est froid et solitaire."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRD
+msgid "Is tallest bird!"
+msgstr "Est le plus grand oiseau!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.GENERIC
+msgid "I will grow mighty crops here!"
+msgstr "Je vais cultiver puissants ici!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.GROWING
+msgid "Grow my little friends! Grow!"
+msgstr "Pousser mes petits amis! Grow!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+msgid "Dirt is not dirty enough to make plants."
+msgstr "Dirt n'est pas sale assez pour rendre les plantes."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STINGER
+msgid "Is sharp like skewer!"
+msgstr "Est tranchante comme brochette!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ICEBOX
+msgid "Box what makes cold!"
+msgstr "Encadré ce qui fait froid!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KOALEFANT_WINTER
+msgid "So soft, I want to squish it!"
+msgstr "Si doux, je veux l'écraser!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KRAMPUS_SACK
+msgid "I have goat man's sack."
+msgstr "Je n'ai sac homme de chèvre."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDEGG_COOKED
+msgid "Cooked bird. Good for breakfast!"
+msgstr "Oiseau cuit. Bon pour le petit déjeuner!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUGNET
+msgid "Catch bugs."
+msgstr "Les bogues."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERQUEEN
+msgid "Oh no! Walking bug-house!"
+msgstr "Oh non! Walking bug-house!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTMAREFUEL
+msgid "Scary stuff."
+msgstr "Substance effrayante."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALOWOOL
+msgid "I make clothes of hair-cow."
+msgstr "Je fais des vêtements de cheveux de la vache."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POOP
+msgid "Smelly!"
+msgstr "Smelly!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK
+msgid "Animal went this way."
+msgstr "Animale a de cette façon."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER
+msgid "They are very pretty."
+msgstr "Elles sont très jolies."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_STONE
+msgid "Wall is strong like me!"
+msgstr "Mur est solide comme moi!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORWOOD
+msgid "Is almost strong as belly!"
+msgstr "Est presque aussi forte ventre!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNKVEST_WINTER
+msgid "I'm real cozy in this nose!"
+msgstr "Je suis réel cosy dans ce nez!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTERFLY.GENERIC
+msgid "Is pretty flutterby!"
+msgstr "Est assez flutterby!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTERFLY.HELD
+msgid "My pet!"
+msgstr "Mon animal de compagnie!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNKVEST_SUMMER
+msgid "Is warm fuzzy nose."
+msgstr "Est chaud nez floue."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTATUE
+msgid "I'm not going to die."
+msgstr "Je ne vais pas mourir."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_WOOD_ITEM
+msgid "Pokey sticks!"
+msgstr "Pokey bâtons!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.GENERIC
+msgid "Is full of food-balls!"
+msgstr "Est plein de produits alimentaires couilles!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.PICKED
+msgid "Eating part is gone."
+msgstr "Manger partie a disparu."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.BARREN
+msgid "I need to poop on it."
+msgstr "J'ai besoin de merde sur elle."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROCKS
+msgid "Is rock. What you not get?"
+msgstr "Est-rock. Que vous pas?"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTGRASS
+msgid "I made a pile of grass."
+msgstr "J'ai fait un tas d'herbe."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNK_WINTER
+msgid "Is floppy hairy nose."
+msgstr "Est disquette nez poilu."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIRTPILE
+msgid "Dirty dirt."
+msgstr "Sale saleté."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOG
+msgid "Is thick like my arm."
+msgstr "Est épais comme mon bras."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.GENERIC
+msgid "Sparkly!"
+msgstr "Sparkly!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.HELD
+msgid "My pocket is sparkles!"
+msgstr "Ma poche est pétille!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_POTATO
+msgid "Ha ha! Ha ha! What ugly potato!"
+msgstr "Ha ha! Ha ha! Quelle pomme de terre laid!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.GENERIC
+msgid "Hah! Not so tall."
+msgstr "Hah! Pas si grand."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.HUNGRY
+msgid "Is hungry, and noisy."
+msgstr "A faim, et bruyant."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.STARVING
+msgid "Is hungry, noisy and angry!"
+msgstr "Est-faim, bruyant et en colère!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEAT
+msgid "Meat makes me strong!"
+msgstr "Viande me rend fort!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.GENERIC
+msgid "Good bye dark times!"
+msgstr "Good Bye fois sombres!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.OUT
+msgid "Uh oh. It turned off."
+msgstr "Uh oh. Il éteint."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.EMBERS
+msgid "The darkness is coming!"
+msgstr "L'obscurité est à venir!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.HIGH
+msgid "Is too much fire!"
+msgstr "Le feu est trop!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.LOW
+msgid "The fire is not hot enough."
+msgstr "Le feu n'est pas assez chaud."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.NORMAL
+msgid "Is good fire!"
+msgstr "Le feu est bon!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKEDMONSTERMEAT
+msgid "I still do not want to eat this."
+msgstr "Je n'ai toujours pas envie de manger ce."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARDHAIR
+msgid "Gross. These are not from my face."
+msgstr "Brut. Ce ne sont pas de mon visage."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABBITHOLE
+msgid "You can not hide forever, jumping meat!"
+msgstr "Vous ne pouvez pas cacher éternellement, sauter la viande!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.GENERIC
+msgid "Is spikey."
+msgstr "Est-spikey."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.CHOPPED
+msgid "I chop the spikes off!"
+msgstr "Je coupe les pointes de réduction!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.BURNT
+msgid "Is spikey and black now"
+msgstr "Est-spikey et noir maintenant"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.BURNING
+msgid "I burn the spikes!"
+msgstr "Je brûle les pics!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PAPYRUS
+msgid "Is like paper"
+msgstr "Est comme du papier"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PITCHFORK
+msgid "Reminds me of childhood."
+msgstr "Ca me rappelle l'enfance."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEDROLL_STRAW
+msgid "Nap time!"
+msgstr "Heure de la sieste!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUSHHAT
+msgid "I am so sneaky!"
+msgstr "Je suis tellement sournois!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREASURECHEST
+msgid "I put stuff there!"
+msgstr "J'ai mis des trucs là!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESTER_EYEBONE.GENERIC
+msgid "It is eye bone. Eye bone connect to face bone."
+msgstr "C'est l'os œil. Eye bone connecter pour faire face à l'os."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESTER_EYEBONE.WAITING
+msgid "It sleeps now."
+msgstr "Il dort maintenant."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHOVEL
+msgid "Dirt Spoon!"
+msgstr "Cuillère Dirt!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLINT
+msgid "Is rock, but pointy-er."
+msgstr "Est-rock, mais pointu-er."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS.GENERIC
+msgid "Is grass."
+msgstr "Est-herbe."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS.PICKED
+msgid "I have defeated the grass!"
+msgstr "J'ai vaincu l'herbe!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.GENERIC
+msgid "Is home for my birdies."
+msgstr "Est à la maison pour mes birdies."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.SLEEPING
+msgid "I should be quiet!"
+msgstr "Je devrais être tranquille!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDCAGE.OCCUPIED
+msgid "Hello birdie!"
+msgstr "Bonjour birdie!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP_TEETH
+msgid "It bites bottoms from below!"
+msgstr "Il mord fonds ci-dessous!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_STONE_ITEM
+msgid "Piles of rocks!"
+msgstr "Des tas de pierres!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTREEDS
+msgid "I made a clump of reeds."
+msgstr "J'ai fait une touffe de roseaux."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_BASE.GENERIC
+msgid "Strange rock. Do I sit on?"
+msgstr "Roche étrange. Dois-je partie?"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_BASE.ACTIVE
+msgid "I do not fear what lies beyond!"
+msgstr "Je ne crains pas ce qui se trouve au-delà!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_BASE.PARTIAL
+msgid "Is coming together now."
+msgstr "Se rassemble maintenant."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.GENERIC
+msgid "This one extra scary."
+msgstr "Celui-ci supplémentaire effrayant."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.SLEEPING
+msgid "I think not smart to poke it."
+msgstr "Je ne crois pas intelligent de le piquer."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.DEAD
+msgid "Not scary now!"
+msgstr "Pas peur maintenant!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDEGG
+msgid "There is bird inside."
+msgstr "Il est à l'intérieur d'oiseau."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_BOX
+msgid "Has little lever."
+msgstr "A petit levier."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KRAMPUS
+msgid "Scary goat man! Run!"
+msgstr "L'homme de chèvre effrayant! Run!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PLANT_NORMAL.GENERIC
+msgid "Leafy!"
+msgstr "Feuillu!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PLANT_NORMAL.READY
+msgid "Mmmm. Is tasty now."
+msgstr "Mmmm. Est savoureux aujourd'hui."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PLANT_NORMAL.GROWING
+msgid "Is still growing."
+msgstr "Est encore en croissance."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_HAY_ITEM
+msgid "Scratchy straws!"
+msgstr "Pailles Scratchy!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTSWORD
+msgid "Is real? Is not real? Is sharp!"
+msgstr "Qui est réel? N'est-ce pas vrai? Est forte!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FROGLEGS
+msgid "Is delicacy in my country!"
+msgstr "Est délicatesse dans mon pays!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWERHAT
+msgid "Is so pretty!"
+msgstr "Est si jolie!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.GENERIC
+msgid "Is hair-cow thing!"
+msgstr "Les cheveux de la vache chose!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.SLEEPING
+msgid "Hair-cow is sleeping."
+msgstr "Sèche-vache est dormait."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.FOLLOWER
+msgid "Hair-cow follow me!"
+msgstr "Sèche-vache suivez-moi!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.NAKED
+msgid "Hair-cow has no more hair."
+msgstr "Sèche-cheveux vache a pas plus."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDNUGGET
+msgid "Money is for tiny men!"
+msgstr "L'argent est pour les hommes minuscules!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTER
+msgid "Is buttery, and taste like insect."
+msgstr "Est-beurre, et le goût des insectes."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTERFLYWINGS
+msgid "No fly without wings!"
+msgstr "Pas de voler sans ailes!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KILLERBEE.GENERIC
+msgid "Angry bee!"
+msgstr "Abeille en colère!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KILLERBEE.HELD
+msgid "My angry bee!"
+msgstr "Mon abeille en colère!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP
+msgid "No trap can hold me!"
+msgstr "Aucun piège ne peut me retenir!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEE.GENERIC
+msgid "Is fat and angry-looking."
+msgstr "Est gras et en colère l'avenir."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEE.HELD
+msgid "Is safely in my pocket."
+msgstr "Est en sécurité dans ma poche."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POND
+msgid "Is all wet."
+msgstr "Est tout mouillé."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TORCH
+msgid "I attack night with fire stick."
+msgstr "J'attaque la nuit avec bâton de feu."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANDRAKE.GENERIC
+msgid "Is strange plant."
+msgstr "Est une plante étrange."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANDRAKE.PICKED
+msgid "Little plant man friend!"
+msgstr "Petit ami de l'homme plante!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANDRAKE.DEAD
+msgid "Little plant man is died!"
+msgstr "L'homme est petite plante est mort!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESEARCHLAB2
+msgid "I am not sure how I feel about... science."
+msgstr "Je ne sais pas comment je me sens ... science."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERHAT
+msgid "Is like smooch from giant bug."
+msgstr "C'est comme baiser d'insecte géant."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERDEN
+msgid "The bugs are hiding in there."
+msgstr "Les insectes se cachent là-dedans."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.GENERIC
+msgid "The door is too small for me."
+msgstr "La porte est trop petite pour moi."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.LIGHTSOUT
+msgid "Where did he go?"
+msgstr "Ou est-il alle?"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.FULL
+msgid "Hey! Come out here, pig man!"
+msgstr "Hey! Viens ici, l'homme cochon!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BIRDTRAP
+msgid "I will catch bird!"
+msgstr "Je vais attraper des oiseaux!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
+msgid "Is very pretty."
+msgstr "Est très jolie."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_BUSH
+msgid "Is thorny."
+msgstr "Est épineux."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMMER
+msgid "Needs sickle!"
+msgstr "Besoins faucille!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROCK
+msgid "Is hard! Like me!"
+msgstr "C'est dur! Comme moi!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARROT
+msgid "Is food. I guess."
+msgstr "Est-alimentaire. Je suppose."
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PINECONE
+msgid "I could crush this tree-seed with my hands!"
+msgstr "Je pourrais écraser cet arbre-graine avec mes mains!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNGRY
+msgid "My mighty belly is empty!"
+msgstr "Mon ventre est vide puissant!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
+msgid "Oh no! The light is gone!"
+msgstr "Oh non! La lumière a disparu!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DUSK
+msgid "The scary time is coming soon."
+msgstr "Le temps effrayant est pour bientôt."
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENTER_DARK
+msgid "I cannot see! I am scared!"
+msgstr "Je ne vois pas! J'ai peur!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE_TOODARK
+msgid "Help me! It is dark!"
+msgstr "Aidez-moi! Il fait noir!"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PECKED
+msgid "What I do to deserve this?"
+msgstr "Ce que je fais pour mériter cela?"
