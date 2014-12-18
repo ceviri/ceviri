@@ -1,238 +1,238 @@
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.HUNGRY
 msgid "Small bird is hungry."
-msgstr "Petit oiseau a faim."
+msgstr "Minik kus aç."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.STARVING
 msgid "Small bird will die from starving."
-msgstr "Petit oiseau va mourir de faim."
+msgstr "Minik kus açliktan ölücek."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_WOOD
 msgid "Hello, pointy sticks!"
-msgstr "Bonjour, bâtons pointus!"
+msgstr "Selam,keskin odunlar!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUG_SAPLING
 msgid "He is cold and lonely."
-msgstr "Il est froid et solitaire."
+msgstr "Soguk ve yalniz"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRD
 msgid "Is tallest bird!"
-msgstr "Est le plus grand oiseau!"
+msgstr "En uzun kus!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.GENERIC
 msgid "I will grow mighty crops here!"
-msgstr "Je vais cultiver puissants ici!"
+msgstr "Muazzam bitkiler üreticem!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.GROWING
 msgid "Grow my little friends! Grow!"
-msgstr "Pousser mes petits amis! Grow!"
+msgstr "Büyüyün kücük arkadaslarim! Büyüyün!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgid "Dirt is not dirty enough to make plants."
-msgstr "Dirt n'est pas sale assez pour rendre les plantes."
+msgstr "Toprak bitki büyütmek için yeterince verimli degil."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STINGER
 msgid "Is sharp like skewer!"
-msgstr "Est tranchante comme brochette!"
+msgstr "Sis kadar keskin!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ICEBOX
 msgid "Box what makes cold!"
-msgstr "Encadré ce qui fait froid!"
+msgstr "Kutu çok soguk!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KOALEFANT_WINTER
 msgid "So soft, I want to squish it!"
-msgstr "Si doux, je veux l'écraser!"
+msgstr "Çok yumuşak,sikmak istiyorum!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KRAMPUS_SACK
 msgid "I have goat man's sack."
-msgstr "Je n'ai sac homme de chèvre."
+msgstr "Keçi adamin çuvali."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDEGG_COOKED
 msgid "Cooked bird. Good for breakfast!"
-msgstr "Oiseau cuit. Bon pour le petit déjeuner!"
+msgstr "Pismis kus. Tam kahvaltilik!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUGNET
 msgid "Catch bugs."
-msgstr "Les bogues."
+msgstr "Böcek yakala."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERQUEEN
 msgid "Oh no! Walking bug-house!"
-msgstr "Oh non! Walking bug-house!"
+msgstr Oh hayir! Yürüyen böcek evi!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.NIGHTMAREFUEL
 msgid "Scary stuff."
-msgstr "Substance effrayante."
+msgstr "Korkutucu seyler."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALOWOOL
 msgid "I make clothes of hair-cow."
-msgstr "Je fais des vêtements de cheveux de la vache."
+msgstr "İnek tüyünden kiyafet yaparim."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POOP
 msgid "Smelly!"
-msgstr "Smelly!"
+msgstr "Pis Kokulu!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK
 msgid "Animal went this way."
-msgstr "Animale a de cette façon."
+msgstr "Hayvan bu tarafa gitti."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER
 msgid "They are very pretty."
-msgstr "Elles sont très jolies."
+msgstr "Çok güzeller."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_STONE
 msgid "Wall is strong like me!"
-msgstr "Mur est solide comme moi!"
+msgstr "Duvar benim gibi sert!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORWOOD
 msgid "Is almost strong as belly!"
-msgstr "Est presque aussi forte ventre!"
+msgstr "Göbek kadar güclü!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNKVEST_WINTER
 msgid "I'm real cozy in this nose!"
-msgstr "Je suis réel cosy dans ce nez!"
+msgstr "Bu burunda çok rahatim!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTERFLY.GENERIC
 msgid "Is pretty flutterby!"
-msgstr "Est assez flutterby!"
+msgstr "Çok güzel pır pır ediyor!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUTTERFLY.HELD
 msgid "My pet!"
-msgstr "Mon animal de compagnie!"
+msgstr "Evcil hayvanim!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNKVEST_SUMMER
 msgid "Is warm fuzzy nose."
-msgstr "Est chaud nez floue."
+msgstr "Sicak belirsiz burun."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTATUE
 msgid "I'm not going to die."
-msgstr "Je ne vais pas mourir."
+msgstr "Burada ölmeyecegim."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_WOOD_ITEM
 msgid "Pokey sticks!"
-msgstr "Pokey bâtons!"
+msgstr "HAPİSHANE SÜTUNU!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.GENERIC
 msgid "Is full of food-balls!"
-msgstr "Est plein de produits alimentaires couilles!"
+msgstr "Bir sürü yiyecek topu!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.PICKED
 msgid "Eating part is gone."
-msgstr "Manger partie a disparu."
+msgstr "Yiyecek kismi gitti."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRYBUSH.BARREN
 msgid "I need to poop on it."
-msgstr "J'ai besoin de merde sur elle."
+msgstr "üzerine gübre atmaliyim."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROCKS
 msgid "Is rock. What you not get?"
-msgstr "Est-rock. Que vous pas?"
+msgstr "Tas.Sen degilmisin?"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTGRASS
 msgid "I made a pile of grass."
-msgstr "J'ai fait un tas d'herbe."
+msgstr "Bir yigin saman."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRUNK_WINTER
 msgid "Is floppy hairy nose."
-msgstr "Est disquette nez poilu."
+msgstr "Sarkik tüylü bir burun."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIRTPILE
 msgid "Dirty dirt."
-msgstr "Sale saleté."
+msgstr "Pis toprak."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LOG
 msgid "Is thick like my arm."
-msgstr "Est épais comme mon bras."
+msgstr "Benim kolum kadar kalin mi"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.GENERIC
 msgid "Sparkly!"
-msgstr "Sparkly!"
+msgstr "Isiltili!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.HELD
 msgid "My pocket is sparkles!"
-msgstr "Ma poche est pétille!"
+msgstr "Cebim isiltili!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TELEPORTATO_POTATO
 msgid "Ha ha! Ha ha! What ugly potato!"
-msgstr "Ha ha! Ha ha! Quelle pomme de terre laid!"
+msgstr "Ha ha! Ha ha! Ne çirkin bir patates!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.GENERIC
 msgid "Hah! Not so tall."
-msgstr "Hah! Pas si grand."
+msgstr "Hah! Çok uzun degilsin."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.HUNGRY
 msgid "Is hungry, and noisy."
-msgstr "A faim, et bruyant."
+msgstr "Aç ve sesli."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TEENBIRD.STARVING
 msgid "Is hungry, noisy and angry!"
-msgstr "Est-faim, bruyant et en colère!"
+msgstr "Aç,sesli ve sinirli!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEAT
 msgid "Meat makes me strong!"
-msgstr "Viande me rend fort!"
+msgstr "Et beni güçlendiriyor!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.GENERIC
 msgid "Good bye dark times!"
-msgstr "Good Bye fois sombres!"
+msgstr "Güle güle karanlik zamanlar!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.OUT
 msgid "Uh oh. It turned off."
-msgstr "Uh oh. Il éteint."
+msgstr "Uh oh.kapandi."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.EMBERS
 msgid "The darkness is coming!"
-msgstr "L'obscurité est à venir!"
+msgstr "Karanlik geliyor!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.HIGH
 msgid "Is too much fire!"
-msgstr "Le feu est trop!"
+msgstr "Bu ates çok fazla!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.LOW
 msgid "The fire is not hot enough."
-msgstr "Le feu n'est pas assez chaud."
+msgstr "Yeterince sicak degil."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREPIT.NORMAL
 msgid "Is good fire!"
-msgstr "Le feu est bon!"
+msgstr "Mükemmel ates!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKEDMONSTERMEAT
 msgid "I still do not want to eat this."
-msgstr "Je n'ai toujours pas envie de manger ce."
+msgstr "Hala bunu yemek istemiyorum."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARDHAIR
 msgid "Gross. These are not from my face."
-msgstr "Brut. Ce ne sont pas de mon visage."
+msgstr "Eww. Bunlar benden çikmadi."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABBITHOLE
 msgid "You can not hide forever, jumping meat!"
-msgstr "Vous ne pouvez pas cacher éternellement, sauter la viande!"
+msgstr "Sonsuza dek saklanamazsin, ziplayan et!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.GENERIC
 msgid "Is spikey."
-msgstr "Est-spikey."
+msgstr "Dikenli."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.CHOPPED
 msgid "I chop the spikes off!"
-msgstr "Je coupe les pointes de réduction!"
+msgstr "Dikenleri kestim!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.BURNT
 msgid "Is spikey and black now"
-msgstr "Est-spikey et noir maintenant"
+msgstr "Dikenli ve kömür"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARSH_TREE.BURNING
 msgid "I burn the spikes!"
-msgstr "Je brûle les pics!"
+msgstr "Dikenleri ben yaktim!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PAPYRUS
 msgid "Is like paper"
-msgstr "Est comme du papier"
+msgstr "Kagita benziyorr"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PITCHFORK
 msgid "Reminds me of childhood."
-msgstr "Ca me rappelle l'enfance."
+msgstr "Çocuklugumu hatirlatiyor."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEDROLL_STRAW
 msgid "Nap time!"
-msgstr "Heure de la sieste!"
+msgstr "uyku zamani!"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUSHHAT
 msgid "I am so sneaky!"
