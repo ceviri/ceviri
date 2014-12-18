@@ -1,102 +1,102 @@
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PERD
 msgid "THAT IS AN UNUSUALLY LARGE BIRD"
-msgstr "C'est une BIRD inhabituellement élevé"
+msgstr "Oldukça büyük bir kus"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRUNKVEST_SUMMER
 msgid "TEMPERATURE CONTROL HOUSING"
-msgstr "LOGEMENT CONTRÔLE DE LA TEMPÉRATURE"
+msgstr "SICAKLIK KONTROLL"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SMALLMEAT
 msgid "IT TASTES LIKE REVENGE"
-msgstr "Il a un goût REVENGE"
+msgstr "Bunda intikam kokusu var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEMINE_MAXWELL
 msgid "AGGRESSIVE LIFEFORMS WITHIN"
-msgstr "Lifeforms agressif au sein"
+msgstr "İçindeki agresif yasam formlari"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOUND.GENERIC
 msgid "MEATLINGS ARE SO SUPERSTITIOUS"
-msgstr "MEATLINGS SONT si superstitieux"
+msgstr "Etten varliklar batil inançlara çok baglilar "
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOUND.DUG
 msgid "WORMS AND ICHOR"
-msgstr "WORMS ET ICHOR"
+msgstr "Solucanlar ve ıchorları"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "IT IS STILL INITIALIZING"
-msgstr "IL EST ENCORE INITIALISATION"
+msgstr "Baslatiliyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "REST FUNCTION ACTIVATED"
-msgstr "FONCTION DE REPOS ACTIF"
+msgstr "Uyku Fonksiyonu Aktif Edildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CUTSTONE
 msgid "I HAVE IMPROVED THE ROCKS"
-msgstr "J'ai amélioré LES ROCHES"
+msgstr "Taslari gelistirdim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDENPICKAXE
 msgid "GOLD IS MORE DURABLE?"
-msgstr "GOLD est plus durable?"
+msgstr "Altin daha mi dayanikli?"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.GENERIC
 msgid "A TEMPORARY ENCAMPMENT"
-msgstr "Un campement temporaire"
+msgstr "Geçici bir kamp"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.OUT
 msgid "NO FIRE DETECTED"
-msgstr "NO FIRE DÉTECTÉE"
+msgstr "Ates söndü"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.EMBERS
 msgid "WARNING: FIRE LEVEL CRITICAL"
-msgstr "AVERTISSEMENT: RISQUES D'INCENDIE DE NIVEAU CRITIQUE"
+msgstr "UYARI:ates seviyesi kritik"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.HIGH
 msgid "WARNING: FIRE IS RAMBUNCTIOUS"
-msgstr "AVERTISSEMENT: le feu est exubérant"
+msgstr "UYARI:Cosmus ates"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.LOW
 msgid "WARNING: FIRE LEVEL LOW"
-msgstr "AVERTISSEMENT: RISQUES D'INCENDIE DE BAS NIVEAU"
+msgstr "UYARI:Ates seviyesi düsük"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.NORMAL
 msgid "IT REMINDS ME OF SOMETHING"
-msgstr "IT me rappelle quelque chose"
+msgstr "Bana bir sey hatirlatiyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FROG.GENERIC
 msgid "POTENTIAL BUNWICH"
-msgstr "POTENTIEL BUNWICH"
+msgstr "Potensiyel Cadi tavsani"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FROG.SLEEPING
 msgid "I SHOULD HARVEST IT"
-msgstr "JE DEVRAIS la moisson"
+msgstr "Hasadı toplamaliyim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRUNK_WINTER
 msgid "CABLE IS MORE DISGUSTING AND HAIRY THAN NORMAL"
-msgstr "Câble est plus dégoûtant et POILUE QUE LA NORMALE"
+msgstr "Kablo normalden daha igrenç ve tüylü"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.GHOST
 msgid "ERROR: UNKNOWN"
-msgstr "ERREUR: UNKNOWN"
+msgstr "Error:Bilinmeyen"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FISHSTICKS
 msgid "UPGRADED FOOD MATERIAL"
-msgstr "PRODUIT ALIMENTAIRE AMÉLIORÉ"
+msgstr "Yiyecek materyali gelistirildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgid "WHAT PRIMITIVE \"TECHNOLOGY\""
-msgstr "QU'EST-CE QUE PRIMITIVE \ "TECHNOLOGIE \""
+msgstr "Çok ilkel bir teknoloji"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_BASE.ACTIVE
 msgid "SOON I WILL BE FREE OF THIS FILTY REALM"
-msgstr "Bientôt je serai libre de cette dégoûtante REALM"
+msgstr "Yakında bu pis dünyadan kurtulacagim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 msgid "I AM CERTAIN THIS WILL WORK"
-msgstr "Je suis certain que FONCTIONNERA"
+msgstr "Kesinlikle çalişacak"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOARDS
 msgid "THEY ARE FLATTER NOW"
-msgstr "ILS SONT MAINTENANT PLAT"
+msgstr "Simdi daha düz oldular"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LOG.GENERIC
 msgid "LOG(1) = 0"
@@ -104,255 +104,255 @@ msgstr "Log (1) = 0"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LOG.BURNING
 msgid "IT IS AFLAME"
-msgstr "IL EST AFLAME"
+msgstr "Bu bir ates"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.DIRTPILE
 msgid "UNKNOWN PILE FORMAT"
-msgstr "FORMAT INCONNU PILE"
+msgstr "Bilinmeyen kazik format"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ANIMAL_TRACK
 msgid "LIFEFORM DETECTED"
-msgstr "Lifeform DÉTECTÉE"
+msgstr "Yasam formu tespitedildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.COOKEDSMALLMEAT
 msgid "IT TASTES LIKE BURNT REVENGE"
-msgstr "Il a un goût BRULE REVENGE"
+msgstr "Kavrulmus intikam tadi var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOAT
 msgid "BOAT"
-msgstr "bateau"
+msgstr "tekne"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TWIGS
 msgid "STICKS"
-msgstr "STICKS"
+msgstr "Çubuk"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY
 msgid "THAT SEEMS SUBOPTIMAL"
-msgstr "Cela semble sous-optimal"
+msgstr "En iyisi degil"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_STONE
 msgid "THAT MAKES ME FEEL SAFE"
-msgstr "QUE me sens en sécurité"
+msgstr "Beni güvende hissettiriyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MAXWELL
 msgid "HE IS UNKNOWN"
-msgstr "IL EST INCONNU"
+msgstr "O Bilinmiyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PICKAXE
 msgid "MINING IMPLEMENT DETECTED"
-msgstr "MINES mettre en œuvre DÉTECTÉE"
+msgstr "Maden Uygulamasi tespit edildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TENTACLESPOTS
 msgid "NOT FOR THE SQUEMISH"
-msgstr "PAS POUR LA SQUEMISH"
+msgstr "Alinma ama"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.EVERGREEN.GENERIC
 msgid "TARGET ACQUIRED"
-msgstr "CIBLE ACQUISE"
+msgstr "Hedef kazanildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.EVERGREEN.CHOPPED
 msgid "THE NATURAL WORLD IS OVERRATED"
-msgstr "Le monde naturel est SURESTIMÉ"
+msgstr "Dogal dünya abartiliyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.EVERGREEN.BURNT
 msgid "I WIN. GOOD."
-msgstr "JE GAGNE. BON."
+msgstr "Kazandim.Güzel"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.EVERGREEN.BURNING
 msgid "SOON THERE WILL BE NOTHING LEFT"
-msgstr "Bientôt, il ne restera plus rien"
+msgstr "Yakinda hiçbirsey kalmiyacak"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BLOWDART_FIRE
 msgid "A WEAPON OF MINOR DESTRUCTION"
-msgstr "ARME DE DESTRUCTION MINEUR"
+msgstr "Kücük bir yikim için silah"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_WOOD
 msgid "I AM SOMEWHAT REASSURED"
-msgstr "JE SUIS un peu rassuré"
+msgstr "Nedense çok rahatim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.HONEYCOMB
 msgid "ONE UNIT OF BEE STORAGE"
-msgstr "UNE UNITÉ DE STOCKAGE D'ABEILLE"
+msgstr "Bir ünite ari deposu"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY_ITEM
 msgid "NOT VERY GOOD DEFENSES"
-msgstr "PAS TRES BON DEFENSES"
+msgstr "Düsük defans"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDNEST.GENERIC
 msgid "I WANT THAT EGG"
-msgstr "JE VEUX QUE DES OEUFS"
+msgstr "Yumurta istiyorum"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDNEST.PICKED
 msgid "IT IS EMPTY"
-msgstr "IL EST VIDE"
+msgstr "Bu bos"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDEREGGSACK
 msgid "SPIDER POTENTIAL = 6"
-msgstr "SPIDER POTENTIEL = 6"
+msgstr "Örümcek potensiyeli = 6"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BUTTERFLYWINGS
-msgid "IRRIDESCENT"
+msgid "Renkleri Degisiyor"
 msgstr "Irridescent"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.DURIAN
 msgid "GOOD THING I LACK A NOSE"
-msgstr "Heureusement que je manque un NEZ"
+msgstr "İyiki bir burnum yok"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgid "CRACK DETECTED"
-msgstr "CRACK DÉTECTÉE"
+msgstr "Çatlak bulundu"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgid "IT CAN NOT VENT EXCESS HEAT"
-msgstr "IL NE PEUT VENT DE CHALEUR EXCESSIVE"
+msgstr "Asiri isinma"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 msgid "IT REQUIRES WARMTH"
-msgstr "IL A BESOIN DE CHALEUR"
+msgstr "Buna sicaklik lazim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
 msgid "LIFE IS AN ANNOYINGLY SLOW PROCESS"
-msgstr "LA VIE EST UN fâcheusement lent processus"
+msgstr "Hayat sinir bozan yavas bir islem"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgid "SOMETHING IS EMERGING"
-msgstr "QUELQUE CHOSE EST ÉMERGENTS"
+msgstr "Bir sey olusuyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.DUG_BERRYBUSH
 msgid "IT WOULD BE MORE USEFUL IN THE GROUND"
-msgstr "IL SERAIT PLUS UTILE DANS LE SOL"
+msgstr "Yerde daha kullanisli olur"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PUMPKIN_LANTERN
 msgid "IT HAS AN EERIE LIGHT"
-msgstr "Il a une lumière sinistre"
+msgstr "Ürkütücü bir isigi var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SILK
 msgid "SPIDER INNARDS"
-msgstr "Entrailles SPIDER"
+msgstr "Örümcek organlari"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER.GENERIC
 msgid "THREAT DETECTED"
-msgstr "Menace détectée"
+msgstr "Tehlike Hissedildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER.SLEEPING
 msgid "IT IS VULNERABLE"
-msgstr "Elle est vulnérable"
+msgstr "Örümcek savunmasiz"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BLOWDART_SLEEP
 msgid "THESE CREATURES ARE SO MANIPULABLE"
-msgstr "Ces créatures sont manipulables SO"
+msgstr "Bu yaratikler kolayca kontrol edilebilir"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ICEBOX
 msgid "CARRY ON, MY FRIGID BROTHER"
-msgstr "CARRY ON, mon frère FRIGID"
+msgstr "Devam et, Donmus kardesim!"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PETALS
 msgid "I HAVE DESTROYED SOMETHING BEAUTIFUL. HA."
-msgstr "J'ai détruit quelque chose de beau. HA."
+msgstr "Güzel bir seyi yokettim.Ha."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERRIES
 msgid "THEY REMIND ME OF BLOOD"
-msgstr "Ils me rappellent SANG"
+msgstr "Bana kan i hatirlatiyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TORCH
 msgid "PRIMITIVE LIGHT SOURCE"
-msgstr "PRIMITIVE SOURCE DE LUMIERE"
+msgstr "Ilkel isik kaynagi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_WOODFLOOR
 msgid "WOOD GROUND"
-msgstr "SOL EN BOIS"
+msgstr "Odun zemin"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH_MAXWELL
 msgid "TECHNOLOGY TURNED AGAINST ME"
-msgstr "TECHNOLOGIE retourné contre moi"
+msgstr "Teknoloji bana ihanet etti"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITO.GENERIC
 msgid "IT STEALS LIFE FROM OTHERS"
-msgstr "Il vole LA VIE DES AUTRES"
+msgstr "Baskalarinin hayatlarini emiyorlar"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITO.HELD
 msgid "FILLED WITH DISGUSTING FLUIDS"
-msgstr "Remplies de fluides DISGUSTING"
+msgstr "Igrenç bir akiskanla dolu"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TENT
 msgid "WHY WOULD I WANT TO CHANGE?"
-msgstr "Pourquoi voudrais-je changer?"
+msgstr "Neden degismek istiyim ki?"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.REEDS.GENERIC
 msgid "USEFUL MATERIALS DETECTED"
-msgstr "SUBSTANCES UTILES DÉTECTÉE"
+msgstr "Kullanisli materyaller tespit edildi "
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.REEDS.PICKED
 msgid "REGROWTH REQUIRED"
-msgstr "REPOUSSE REQUIS"
+msgstr "Yeniden büyüme gerekli"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.REEDS.BURNING
 msgid "TOO HOT"
-msgstr "TROP CHAUD"
+msgstr "Çok sicakk"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRUNK_SUMMER
 msgid "CABLE UNPLUGGED"
-msgstr "CABLE UNPLUGGED"
+msgstr "Kablo baglanmamis"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.POOP
 msgid "THESE ANIMALS ARE DISGUSTING"
-msgstr "Ces animaux sont DISGUSTING"
+msgstr "Bu hayvanlar igrenç"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FEATHER_ROBIN
 msgid "IT HAS BEEN SEPARATED FROM ITS BIRD"
-msgstr "IL A été séparé de son BIRD"
+msgstr "Kusundan koparilmis"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RAZOR
 msgid "EXFOLIATE!"
-msgstr "Exfolier!"
+msgstr "Dökülüyor!"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TENTACLE
 msgid "BIOLOGY IS DISGUSTING"
-msgstr "BIOLOGIE est dégoûtant"
+msgstr "Biyoloji çok igrenç"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEHIVE
 msgid "HOW INDUSTRIOUS"
-msgstr "COMMENT industrieuse"
+msgstr "Çok çaliskanlar"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.GENERIC
 msgid "POTENTIAL CONSTRUCTION MATERIAL"
-msgstr "MATERIAUX DE CONSTRUCTION POTENTIEL"
+msgstr "Potensiyel insaat materyali"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.PICKED
 msgid "IT IS RECHARGING"
-msgstr "IL EST DE RECHARGE"
+msgstr "Yeniden doluyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.BURNING
 msgid "RESOURCES WASTED"
-msgstr "Le gaspillage des ressources"
+msgstr "Kaynaklar bosa gitti"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_POTATO
 msgid "REMINDS ME OF MY MOTHER"
-msgstr "ME RAPPELLE DE MA MERE"
+msgstr "Annemi hatirlatiyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.DRUMSTICK_COOKED
 msgid "A TASTE SENSATION"
-msgstr "Une sensation de goût"
+msgstr "Tat duygusu"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGKING
 msgid "THAT APPEARS TO BE THE DOMINANT PIG"
-msgstr "Cela semble être LE COCHON DOMINANTE"
+msgstr "Bu sisman bunlarin basi gibi gözüküyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.HORN
 msgid "UNHYGENIC"
-msgstr "Unhygenic"
+msgstr "Pislik"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_CRANK
 msgid "I'M MADE OF TOUGHER STUFF"
-msgstr "Je suis fait d'un durcissement STUFF"
+msgstr "Ben daha sert maddeden yapildim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_SANITY
 msgid "I WILL PROTECT MYSELF WITH NOTHINGNESS"
-msgstr "JE ME PROTEGER avec le néant"
+msgstr "Kendimi hiçlikle koruyacagim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER
 msgid "THIS EXTERNAL STORAGE UNIT APPEARS TO BE SENTIENT"
-msgstr "Cette unité de stockage externe semble être sensibles"
+msgstr "Bu harici depolama birimi duyarli görünüyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CORN
 msgid "SAY(CORNY_JOKE)"
@@ -360,43 +360,43 @@ msgstr "SAY (CORNY_JOKE)"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WORMHOLE.GENERIC
 msgid "I WANT TO STEP ON IT"
-msgstr "Je veux pas marcher sur IT"
+msgstr "Üzerine basmak istiyorum"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WORMHOLE.OPEN
 msgid "THIS MEAT TUBE WILL SERVE MY PURPOSES"
-msgstr "Ce tube VIANDES servir mon FINS"
+msgstr "Bu yemek tüpü benim amaçlarima hizmet edecek"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PAPYRUS
 msgid "I PREFER DOT MATRIX PAPER"
-msgstr "JE PRÉFÈRE DOT MATRIX PAPIER"
+msgstr "Matrix kagidini tercih ederim"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.GENERIC
 msgid "A SPIKY TREE"
-msgstr "UN ARBRE SPIKY"
+msgstr "Dikenli Agaç"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.CHOPPED
 msgid "SPIKY TREE DEFEATED"
-msgstr "ARBRE SPIKY DÉFAITE"
+msgstr "Dikenli Agaç yokedildi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.BURNT
 msgid "THE SPIKY TREE IS NO MORE"
-msgstr "L'ARBRE N'EST PLUS SPIKY"
+msgstr "Dikenli agac sizlere omür"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.BURNING
 msgid "SPIKY TREE IGNITED"
-msgstr "ARBRE SPIKY ALLUMAGE"
+msgstr "Dikenli agac yaniyor"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CHARCOAL
 msgid "COMPRESSED DEAD MATTER. WHAT IS NOT TO LIKE?"
-msgstr "COMPRIMÉ matière morte. CE QUI N'EST PAS D'AIMER?"
+msgstr "Sikistirilmis ölüm maddesi.Niye sevmeyeyim ki?"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KOALEFANT_SUMMER
 msgid "POSSESSES AMPLE ENERGY RESERVES"
-msgstr "Possède des réserves ENERGY AMPLES"
+msgstr "Genis enerji reservine sahip"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_PLANT
 msgid "IT IS AN UNINTERESTING PLANT"
-msgstr "C'est une plante inintéressante"
+msgstr "Bu agaç ilgimi çekmedi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEDROLL_STRAW
 msgid "SLEEP( 1000 )"
@@ -404,43 +404,43 @@ msgstr "SLEEP (1000)"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BIRDTRAP
 msgid "STUPID BIRDS. HA."
-msgstr "OISEAUX stupide. HA."
+msgstr "Salak kuslar. HA."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TREASURECHEST
 msgid "EXTERNAL STORAGE UNIT"
-msgstr "Unité de stockage externe"
+msgstr "Harici depolama unitesi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MONSTERMEAT
 msgid "IT IS INCOMPATIBLE WITH MY CHEMICAL ENGINE"
-msgstr "IL EST INCOMPATIBLE AVEC MON MOTEUR CHIMIQUES"
+msgstr "Kimyasal motorla uyumsuz"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FARMPLOT.GENERIC
 msgid "IT IS NOT CURRENTLY ACTIVE"
-msgstr "Il n'est pas actuellement ACTIVE"
+msgstr "Suan aktif degil"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FARMPLOT.GROWING
 msgid "LIFE IS INEFFICIENT"
-msgstr "LA VIE EST INEFFICACE"
+msgstr "Hayat çok verimsiz"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgid "ITS RESOURCES ARE EXHAUSTED"
-msgstr "SES ressources sont épuisées"
+msgstr "Kaynaklari azaldi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGSKIN
 msgid "THESE FLESHLINGS ARE DISGUSTING"
-msgstr "CES FLESHLINGS sont dégueulasses"
+msgstr "Bu etten yaratikler mide bulandirici"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRUNK_COOKED
 msgid "MEAT RENDERED INACTIVE. EXCELLENT."
-msgstr "VIANDE rendu inactif. EXCELLENT."
+msgstr "Et gelimi inaktif. Mükemmel."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.NIGHTLIGHT
 msgid "UNKNOWN LIGHT SOURCE"
-msgstr "Source de lumière"
+msgstr "Bilinmeyen isik kaynagi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.AXE
 msgid "A TOOL FOR CHOPPING DOWN LIVING MATTER"
-msgstr "UN OUTIL POUR abattre MATIÈRE VIVANTE"
+msgstr "Yasayanlari öldürmek icin güzel bir alet"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_DIRT
 msgid "THE GROUND"
@@ -448,56 +448,56 @@ msgstr "L"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.HONEY
 msgid "IT IS A GOOD LUBRICANT FOR MY GEARS"
-msgstr "C'est un lubrifiant BON POUR MES ENGRENAGES"
+msgstr "Parçalarim için güzel bir yag"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.EGGPLANT
 msgid "IT HAS AN ILLOGICAL NAME"
-msgstr "Il a un nom ILLOGIQUE"
+msgstr "Mantiksiz bir ismi var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEBOX.GENERIC
 msgid "WORK HARDER, BEES"
-msgstr "Travailler plus dur, BEES"
+msgstr "Daha fazla çalisin,ARILAR"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEBOX.SOMEHONEY
 msgid "HONEY LEVELS ARE LOW"
-msgstr "NIVEAUX DE MIEL EST FAIBLE"
+msgstr "Bal miktari düsük"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEBOX.FULLHONEY
 msgid "HONEY LEVELS ARE HIGH"
-msgstr "NIVEAUX DE MIEL SONT HAUT"
+msgstr "Bal miktari yüksek"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEBOX.NOHONEY
 msgid "NO HONEY DETECTED"
-msgstr "NON DETECTE MIEL"
+msgstr "Bal bitmis"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.COOKEDMEAT
 msgid "FIRE MAKES THINGS BETTER"
-msgstr "INCENDIE améliore les choses"
+msgstr "Ates herseyi güzellestirir"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KILLERBEE.GENERIC
 msgid "IT HAS A STINGER AND A BAD ATTITUDE"
-msgstr "IL YA UNE STINGER et une mauvaise attitude"
+msgstr "İgnesi ve kötü bir davranisi var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KILLERBEE.HELD
 msgid "WARNING: KILLER BEE IN POCKET"
-msgstr "AVERTISSEMENT: Killer Bee dans la poche"
+msgstr "UYARI:cepte ari var"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.FISHINGROD
 msgid "I DO NOT LIKE WATER"
-msgstr "JE N'AIME PAS L'EAU"
+msgstr "Sudan hoslanmam"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEE.GENERIC
 msgid "A MINDLESS DRONE. I LIKE HIM."
-msgstr "Un DRONE MINDLESS. Je l'aime bien."
+msgstr "Beyinsiz bir dron. Sevdim."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEE.HELD
 msgid "ITS VIBRATIONS ARE COMFORTING"
-msgstr "Ses vibrations sont réconfortants"
+msgstr "Titresimi rahatlatici"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ABIGAIL
 msgid "UNDEAD ALERT"
-msgstr "ALERTE UNDEAD"
+msgstr "Hayalet alarmi"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALOHAT
 msgid "THERE ARE TRACES OF FECAL MATTER EMBEDDED IN THE FIBERS"
-msgstr "Il ya des traces de matières fécales intégré dans le FIBRES"
+msgstr "Liflerde diski izleri var"
