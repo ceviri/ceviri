@@ -844,19 +844,19 @@ msgstr "Ha! Seni gösterdim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PETALS
 msgid "Stupid flowers. They're almost useless."
-msgstr "Stupid flowers. They're almost useless."
+msgstr "Aptal çiçekler. Neredeyse ise yaramazlar."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRIES
 msgid "Red berries taste the best."
-msgstr "Red berries taste the best."
+msgstr "Tadı en iyisi kırmızı meyveler."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEBOX.GENERIC
 msgid "Come on fat bees, make me honey!"
-msgstr "Come on fat bees, make me honey!"
+msgstr "Hadii sisko arılar, bana bal yapın!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEBOX.READY
 msgid "Yay! I can steal honey!"
-msgstr "Yay! I can steal honey!"
+msgstr "Yay! Bal çalabilirim!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH_MAXWELL
 msgid "What kind of jerk leaves this lying around?"
@@ -864,19 +864,19 @@ msgstr "What kind of jerk leaves this lying around?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.GENERIC
 msgid "So annoying!"
-msgstr "So annoying!"
+msgstr "Çok can sıkıcı!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.HELD
 msgid "Keep that mouth away from me!"
-msgstr "Keep that mouth away from me!"
+msgstr "Agzı benden uzak tut!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENT
 msgid "I got all the badges in Girl Scouts."
-msgstr "I got all the badges in Girl Scouts."
+msgstr "Kız izcilerin tüm rozetleri bende var."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEEDS
 msgid "Farming is boring."
-msgstr "Farming is boring."
+msgstr "Çiftçilik sıkıcı."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.REEDS.GENERIC
 msgid "It's a burnable clump of reeds"
@@ -912,15 +912,15 @@ msgstr "It's full of bees!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.GENERIC
 msgid "I should pick it."
-msgstr "I should pick it."
+msgstr "Almalıydım."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.PICKED
 msgid "Poor little limp tree."
-msgstr "Poor little limp tree."
+msgstr "Zavallı küçük gevsek agaç."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGKING
 msgid "Blech. What a slob."
-msgstr "Blech. What a slob."
+msgstr "Blech. Ne pasaklı."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_CRANK
 msgid "What's this part good for?"
@@ -932,15 +932,15 @@ msgstr "Like being wrapped in smoke."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER
 msgid "He's so fuzzy!"
-msgstr "He's so fuzzy!"
+msgstr "Çok bulanık!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARCOAL
 msgid "Mmmm. Smells like fire."
-msgstr "Mmmm. Smells like fire."
+msgstr "Mmmm. Ateş gibi kokuyor."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_SUMMER
 msgid "We will be great friends!"
-msgstr "We will be great friends!"
+msgstr "Çok iyi arkadaş olacagız!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MONSTERMEAT
 msgid "Gross. It's full of hairs."
@@ -952,11 +952,11 @@ msgstr "I'm still not sure I want to eat this."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTLIGHT
 msgid "It's like fire, but purple!"
-msgstr "It's like fire, but purple!"
+msgstr "Yangın gibi, fakat mor!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.AXE
 msgid "It's very sharp."
-msgstr "It's very sharp."
+msgstr "Çok keskin."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMEAT
 msgid "I've tasted better."
@@ -964,7 +964,7 @@ msgstr "I've tasted better."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPEAR
 msgid "Feel my wrath!"
-msgstr "Feel my wrath!"
+msgstr "Öfkemi hissedin!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPOILED_FOOD
 msgid "At least it's still flammable."
@@ -980,11 +980,11 @@ msgstr "Not quite a phoenix but still cute, I guess."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.HUNGRY
 msgid "Are you hungry?"
-msgstr "Are you hungry?"
+msgstr "Aç mısın?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.STARVING
 msgid "Ok, ok! I get it, you're hungry."
-msgstr "Ok, ok! I get it, you're hungry."
+msgstr "Tamam, tamam! Anladım, aç degilsin."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD
 msgid "That could totally catch on fire."
@@ -996,4 +996,4 @@ msgstr "What's the matter, got no dirt?"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRD
 msgid "I don't think it wants to be friends."
-msgstr "I don't think it wants to be friends."
+msgstr "Arkadas olmak istedigini sanmıyorum."
